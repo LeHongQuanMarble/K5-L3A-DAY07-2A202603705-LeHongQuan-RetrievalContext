@@ -1,0 +1,14 @@
+{
+  "split": "dev",
+  "mode": "vision_pages",
+  "retriever": "hybrid",
+  "pages_shown": 6,
+  "model": "claude-haiku-5-5",
+  "n": 18,
+  "wall_seconds": 90.2,
+  "usage": {
+    "calls": 18,
+    "input_tokens": 155738,
+    "output_tokens": 6121
+  }
+}

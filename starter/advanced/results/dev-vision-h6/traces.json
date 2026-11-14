@@ -1,0 +1,1385 @@
+[
+  {
+    "query_id": "d01",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.2, sản lượng dầu thô (Crude Oil) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": "aer2011:p030:r001",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p164:r000",
+            "page": 164
+          },
+          {
+            "id": "aer2011:p030:r000",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p165:r001",
+            "page": 165
+          },
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p165:r000",
+            "page": 165
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p110:r001",
+            "page": 110
+          },
+          {
+            "id": "aer2011:p110:r000",
+            "page": 110
+          },
+          {
+            "id": "aer2011:p252:r001",
+            "page": 252
+          },
+          {
+            "id": "aer2011:p167:r021",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p252:r000",
+            "page": 252
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          30,
+          164,
+          165,
+          23,
+          110,
+          252
+        ]
+      }
+    ],
+    "elapsed_ms": 4833.88988599836
+  },
+  {
+    "query_id": "d02",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 3.1, giá than (Coal) danh nghĩa năm 2000 là bao nhiêu dollar mỗi triệu Btu?",
+        "results": [
+          {
+            "id": "aer2011:p092:r000",
+            "page": 92
+          },
+          {
+            "id": "aer2011:p234:r000",
+            "page": 234
+          },
+          {
+            "id": "aer2011:p270:r000",
+            "page": 270
+          },
+          {
+            "id": "aer2011:p270:r001",
+            "page": 270
+          },
+          {
+            "id": "aer2011:p215:t00",
+            "page": 215
+          },
+          {
+            "id": "aer2011:p222:r001",
+            "page": 222
+          },
+          {
+            "id": "aer2011:p030:r001",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p234:r001",
+            "page": 234
+          },
+          {
+            "id": "aer2011:p067:t05",
+            "page": 67
+          },
+          {
+            "id": "aer2011:p222:r000",
+            "page": 222
+          },
+          {
+            "id": "aer2011:p218:r000",
+            "page": 218
+          },
+          {
+            "id": "aer2011:p257:t01",
+            "page": 257
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          92,
+          234,
+          270,
+          215,
+          222,
+          30
+        ]
+      }
+    ],
+    "elapsed_ms": 4471.235709999746
+  },
+  {
+    "query_id": "d03",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.3, lượng tiêu thụ dầu mỏ (Petroleum) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": "aer2011:p030:r001",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p164:r000",
+            "page": 164
+          },
+          {
+            "id": "aer2011:p030:r000",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p167:r021",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p167:r004",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p167:r001",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p167:r000",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p270:r000",
+            "page": 270
+          },
+          {
+            "id": "aer2011:p167:r022",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p270:r001",
+            "page": 270
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          30,
+          164,
+          167,
+          23,
+          270
+        ]
+      }
+    ],
+    "elapsed_ms": 3653.938838999238
+  },
+  {
+    "query_id": "d04",
+    "group": "image",
+    "status": "answered",
+    "answer": "21.62 quadrillion Btu (Residential, Figure 1.0 Energy Flow, 2011)",
+    "raw_answer": "```json\n{\"answer\": \"21.62 quadrillion Btu (Residential, Figure 1.0 Energy Flow, 2011)\", \"pages\": [23]}\n```",
+    "citations": [
+      "page:23"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), khu vực Residential tiêu thụ bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p061:r023",
+            "page": 61
+          },
+          {
+            "id": "aer2011:p009:t01",
+            "page": 9
+          },
+          {
+            "id": "aer2011:p061:r034",
+            "page": 61
+          },
+          {
+            "id": "aer2011:p061:r029",
+            "page": 61
+          },
+          {
+            "id": "aer2011:p137:t00",
+            "page": 137
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p061:r036",
+            "page": 61
+          },
+          {
+            "id": "aer2011:p061:r025",
+            "page": 61
+          },
+          {
+            "id": "aer2011:p239:t00",
+            "page": 239
+          },
+          {
+            "id": "aer2011:p023:t01",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p061:r022",
+            "page": 61
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          61,
+          9,
+          137,
+          239
+        ]
+      }
+    ],
+    "elapsed_ms": 4964.425509999273
+  },
+  {
+    "query_id": "d05",
+    "group": "image",
+    "status": "answered",
+    "answer": "24,49 quadrillion Btu (Figure 1.0, Energy Flow, 2011, nhánh Imports: Petroleum⁴ = 24.49; chú thích 4 nêu đây là dầu thô và sản phẩm dầu mỏ, bao gồm nhập khẩu vào Strategic Petroleum Reserve).",
+    "raw_answer": "```json\n{\"answer\": \"24,49 quadrillion Btu (Figure 1.0, Energy Flow, 2011, nhánh Imports: Petroleum⁴ = 24.49; chú thích 4 nêu đây là dầu thô và sản phẩm dầu mỏ, bao gồm nhập khẩu vào Strategic Petroleum Reserve).\", \"pages\": [23]}\n```",
+    "citations": [
+      "page:23"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), nhập khẩu dầu mỏ (Petroleum) là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p137:t00",
+            "page": 137
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p239:t00",
+            "page": 239
+          },
+          {
+            "id": "aer2011:p030:r001",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p009:t01",
+            "page": 9
+          },
+          {
+            "id": "aer2011:p349:r000",
+            "page": 349
+          },
+          {
+            "id": "aer2011:p023:t01",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p148:r000",
+            "page": 148
+          },
+          {
+            "id": "aer2011:p066:t00",
+            "page": 66
+          },
+          {
+            "id": "aer2011:p100:r000",
+            "page": 100
+          },
+          {
+            "id": "aer2011:p030:r000",
+            "page": 30
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          137,
+          239,
+          30,
+          9,
+          349
+        ]
+      }
+    ],
+    "elapsed_ms": 5513.595850999991
+  },
+  {
+    "query_id": "d06",
+    "group": "image",
+    "status": "answered",
+    "answer": "0.2 nghìn tỷ foot khối (Trillion Cubic Feet)",
+    "raw_answer": "{\"answer\": \"0.2 nghìn tỷ foot khối (Trillion Cubic Feet)\", \"pages\": [200]}",
+    "citations": [
+      "page:200"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Figure 6.2 (Production Flow 2011), lượng Vented and Flared là bao nhiêu nghìn tỷ foot khối (Trillion Cubic Feet)?",
+        "results": [
+          {
+            "id": "aer2011:p137:t00",
+            "page": 137
+          },
+          {
+            "id": "aer2011:p197:t00",
+            "page": 197
+          },
+          {
+            "id": "aer2011:p206:r001",
+            "page": 206
+          },
+          {
+            "id": "aer2011:p009:t01",
+            "page": 9
+          },
+          {
+            "id": "aer2011:p197:t02",
+            "page": 197
+          },
+          {
+            "id": "aer2011:p158:r001",
+            "page": 158
+          },
+          {
+            "id": "aer2011:p200:r000",
+            "page": 200
+          },
+          {
+            "id": "aer2011:p198:r001",
+            "page": 198
+          },
+          {
+            "id": "aer2011:p200:f00",
+            "page": 200
+          },
+          {
+            "id": "aer2011:p198:r000",
+            "page": 198
+          },
+          {
+            "id": "aer2011:p201:r001",
+            "page": 201
+          },
+          {
+            "id": "aer2011:p201:r031",
+            "page": 201
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          137,
+          197,
+          206,
+          9,
+          158,
+          200
+        ]
+      }
+    ],
+    "elapsed_ms": 3248.744913998962
+  },
+  {
+    "query_id": "d07",
+    "group": "chart",
+    "status": "answered",
+    "answer": "6.2 trillion cubic feet",
+    "raw_answer": "{\"answer\": \"6.2 trillion cubic feet\", \"pages\": [200]}",
+    "citations": [
+      "page:200"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ Gross Withdrawals by Well Type, 2011 (Figure 6.2), giếng dầu thô (Crude Oil Wells) có giá trị bao nhiêu trillion cubic feet?",
+        "results": [
+          {
+            "id": "aer2011:p204:r001",
+            "page": 204
+          },
+          {
+            "id": "aer2011:p204:r000",
+            "page": 204
+          },
+          {
+            "id": "aer2011:p200:r000",
+            "page": 200
+          },
+          {
+            "id": "aer2011:p118:r000",
+            "page": 118
+          },
+          {
+            "id": "aer2011:p197:t00",
+            "page": 197
+          },
+          {
+            "id": "aer2011:p118:r001",
+            "page": 118
+          },
+          {
+            "id": "aer2011:p120:r000",
+            "page": 120
+          },
+          {
+            "id": "aer2011:p120:r001",
+            "page": 120
+          },
+          {
+            "id": "aer2011:p205:r022",
+            "page": 205
+          },
+          {
+            "id": "aer2011:p205:r021",
+            "page": 205
+          },
+          {
+            "id": "aer2011:p200:f00",
+            "page": 200
+          },
+          {
+            "id": "aer2011:p137:t00",
+            "page": 137
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          204,
+          200,
+          118,
+          197,
+          120,
+          205
+        ]
+      }
+    ],
+    "elapsed_ms": 3444.8810559988488
+  },
+  {
+    "query_id": "d08",
+    "group": "chart",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), giá trị của LPG và NGL là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p092:r001",
+            "page": 92
+          },
+          {
+            "id": "aer2011:p026:r000",
+            "page": 26
+          },
+          {
+            "id": "aer2011:p054:t03",
+            "page": 54
+          },
+          {
+            "id": "aer2011:p030:r000",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p067:t00",
+            "page": 67
+          },
+          {
+            "id": "aer2011:p057:t00",
+            "page": 57
+          },
+          {
+            "id": "aer2011:p353:t01",
+            "page": 353
+          },
+          {
+            "id": "aer2011:p298:t02",
+            "page": 298
+          },
+          {
+            "id": "aer2011:p347:r000",
+            "page": 347
+          },
+          {
+            "id": "aer2011:p092:r000",
+            "page": 92
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          92,
+          26,
+          54,
+          30,
+          67
+        ]
+      }
+    ],
+    "elapsed_ms": 6025.905754999258
+  },
+  {
+    "query_id": "d09",
+    "group": "chart",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), Net Electricity có giá trị bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p026:r000",
+            "page": 26
+          },
+          {
+            "id": "aer2011:p054:t03",
+            "page": 54
+          },
+          {
+            "id": "aer2011:p030:r000",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p253:r016",
+            "page": 253
+          },
+          {
+            "id": "aer2011:p057:t00",
+            "page": 57
+          },
+          {
+            "id": "aer2011:p253:r018",
+            "page": 253
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p253:r017",
+            "page": 253
+          },
+          {
+            "id": "aer2011:p030:r001",
+            "page": 30
+          },
+          {
+            "id": "aer2011:p253:r015",
+            "page": 253
+          },
+          {
+            "id": "aer2011:p253:r027",
+            "page": 253
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          26,
+          54,
+          30,
+          253,
+          57
+        ]
+      }
+    ],
+    "elapsed_ms": 4306.226554999739
+  },
+  {
+    "query_id": "d10",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Dầu thô (Crude Oil) sản xuất năm 2000 trong Bảng 1.2 chiếm bao nhiêu phần trăm tổng tiêu thụ dầu mỏ (Petroleum) năm 2000 trong Bảng 1.3? Làm tròn một chữ số thập phân.",
+        "results": [
+          {
+            "id": "aer2011:p142:r001",
+            "page": 142
+          },
+          {
+            "id": "aer2011:p142:r000",
+            "page": 142
+          },
+          {
+            "id": "aer2011:p165:r000",
+            "page": 165
+          },
+          {
+            "id": "aer2011:p165:r001",
+            "page": 165
+          },
+          {
+            "id": "aer2011:p148:r000",
+            "page": 148
+          },
+          {
+            "id": "aer2011:p139:r001",
+            "page": 139
+          },
+          {
+            "id": "aer2011:p164:r000",
+            "page": 164
+          },
+          {
+            "id": "aer2011:p247:r007",
+            "page": 247
+          },
+          {
+            "id": "aer2011:p281:r007",
+            "page": 281
+          },
+          {
+            "id": "aer2011:p138:r002",
+            "page": 138
+          },
+          {
+            "id": "aer2011:p167:r005",
+            "page": 167
+          },
+          {
+            "id": "aer2011:p180:r001",
+            "page": 180
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          142,
+          165,
+          148,
+          139,
+          164,
+          247
+        ]
+      }
+    ],
+    "elapsed_ms": 3869.1103309993196
+  },
+  {
+    "query_id": "d11",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": [23]}\n```",
+    "citations": [
+      "page:23"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Khí tự nhiên (Natural Gas) năm 2011 trong Hình 1.0 (Energy Flow) là bao nhiêu quadrillion Btu, và có khớp với Bảng 1.2 không? Lấy giá trị từ Bảng 1.2 làm chuẩn.",
+        "results": [
+          {
+            "id": "aer2011:p023:t00",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p023:t03",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p197:t00",
+            "page": 197
+          },
+          {
+            "id": "aer2011:p009:t01",
+            "page": 9
+          },
+          {
+            "id": "aer2011:p197:t02",
+            "page": 197
+          },
+          {
+            "id": "aer2011:p137:t00",
+            "page": 137
+          },
+          {
+            "id": "aer2011:p239:t00",
+            "page": 239
+          },
+          {
+            "id": "aer2011:p344:r016",
+            "page": 344
+          },
+          {
+            "id": "aer2011:p066:t00",
+            "page": 66
+          },
+          {
+            "id": "aer2011:p344:r040",
+            "page": 344
+          },
+          {
+            "id": "aer2011:p023:t01",
+            "page": 23
+          },
+          {
+            "id": "aer2011:p344:r036",
+            "page": 344
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          197,
+          9,
+          137,
+          239,
+          344
+        ]
+      }
+    ],
+    "elapsed_ms": 7135.0890419998905
+  },
+  {
+    "query_id": "d12",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Năng lượng tái tạo (Renewable Energy) năm 2011 trong Hình 1.0 là bao nhiêu, và Bảng 1.2 ghi bao nhiêu? Hai con số có khớp không?",
+        "results": [
+          {
+            "id": "aer2011:p297:t00",
+            "page": 297
+          },
+          {
+            "id": "aer2011:p305:r005",
+            "page": 305
+          },
+          {
+            "id": "aer2011:p298:t00",
+            "page": 298
+          },
+          {
+            "id": "aer2011:p305:r009",
+            "page": 305
+          },
+          {
+            "id": "aer2011:p123:t01",
+            "page": 123
+          },
+          {
+            "id": "aer2011:p305:r007",
+            "page": 305
+          },
+          {
+            "id": "aer2011:p123:t03",
+            "page": 123
+          },
+          {
+            "id": "aer2011:p305:r011",
+            "page": 305
+          },
+          {
+            "id": "aer2011:p066:t00",
+            "page": 66
+          },
+          {
+            "id": "aer2011:p302:r037",
+            "page": 302
+          },
+          {
+            "id": "aer2011:p298:t02",
+            "page": 298
+          },
+          {
+            "id": "aer2011:p305:r012",
+            "page": 305
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          297,
+          305,
+          298,
+          123,
+          66,
+          302
+        ]
+      }
+    ],
+    "elapsed_ms": 9243.661149999753
+  },
+  {
+    "query_id": "d13",
+    "group": "text",
+    "status": "answered",
+    "answer": "Theo chú thích 2 của bảng 8.13, \"Energy Efficiency\" (hiệu quả năng lượng) là các chương trình nhằm giảm năng lượng mà các thiết bị và hệ thống sử dụng cho từng dịch vụ đầu cuối cụ thể, thường không làm ảnh hưởng đến các dịch vụ được cung cấp. Các chương trình này giảm tổng mức tiêu thụ điện, thường không xem xét rõ ràng đến thời điểm của các khoản tiết kiệm do chương trình tạo ra. Mức tiết kiệm thường đạt được bằng cách thay thế thiết bị có công nghệ tiên tiến hơn để tạo ra cùng mức dịch vụ đầu cuối với ít điện hơn. Ví dụ gồm thiết bị gia dụng hiệu suất cao, chương trình chiếu sáng hiệu quả, hệ thống sưởi, thông gió và điều hòa không khí hiệu suất cao, điều chỉnh hệ thống điều khiển, thiết kế tòa nhà tiết kiệm năng lượng, và động cơ điện hiệu suất cao.",
+    "raw_answer": "{\"answer\": \"Theo chú thích 2 của bảng 8.13, \\\"Energy Efficiency\\\" (hiệu quả năng lượng) là các chương trình nhằm giảm năng lượng mà các thiết bị và hệ thống sử dụng cho từng dịch vụ đầu cuối cụ thể, thường không làm ảnh hưởng đến các dịch vụ được cung cấp. Các chương trình này giảm tổng mức tiêu thụ điện, thường không xem xét rõ ràng đến thời điểm của các khoản tiết kiệm do chương trình tạo ra. Mức tiết kiệm thường đạt được bằng cách thay thế thiết bị có công nghệ tiên tiến hơn để tạo ra cùng mức dịch vụ đầu cuối với ít điện hơn. Ví dụ gồm thiết bị gia dụng hiệu suất cao, chương trình chiếu sáng hiệu quả, hệ thống sưởi, thông gió và điều hòa không khí hiệu suất cao, điều chỉnh hệ thống điều khiển, thiết kế tòa nhà tiết kiệm năng lượng, và động cơ điện hiệu suất cao.\", \"pages\": [287]}",
+    "citations": [
+      "page:287"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo phần chú thích, \"Energy Efficiency\" là gì trong bảng về chương trình quản lý phụ tải?",
+        "results": [
+          {
+            "id": "aer2011:p287:r003",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r017",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r016",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r015",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r005",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r018",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r007",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r014",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r004",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r012",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r019",
+            "page": 287
+          },
+          {
+            "id": "aer2011:p287:r020",
+            "page": 287
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          287
+        ]
+      }
+    ],
+    "elapsed_ms": 4338.400722999722
+  },
+  {
+    "query_id": "d14",
+    "group": "text",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng về biên dự phòng điện (trang 284), \"capacity margin\" được định nghĩa thế nào?",
+        "results": [
+          {
+            "id": "aer2011:p013:t02",
+            "page": 13
+          },
+          {
+            "id": "aer2011:p279:r032",
+            "page": 279
+          },
+          {
+            "id": "aer2011:p019:t00",
+            "page": 19
+          },
+          {
+            "id": "aer2011:p279:r033",
+            "page": 279
+          },
+          {
+            "id": "aer2011:p279:r031",
+            "page": 279
+          },
+          {
+            "id": "aer2011:p282:r000",
+            "page": 282
+          },
+          {
+            "id": "aer2011:p168:r020",
+            "page": 168
+          },
+          {
+            "id": "aer2011:p279:r021",
+            "page": 279
+          },
+          {
+            "id": "aer2011:p279:r023",
+            "page": 279
+          },
+          {
+            "id": "aer2011:p325:r027",
+            "page": 325
+          },
+          {
+            "id": "aer2011:p279:r026",
+            "page": 279
+          },
+          {
+            "id": "aer2011:p283:r000",
+            "page": 283
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          13,
+          279,
+          19,
+          282,
+          168,
+          325
+        ]
+      }
+    ],
+    "elapsed_ms": 4446.660093999526
+  },
+  {
+    "query_id": "d15",
+    "group": "text",
+    "status": "answered",
+    "answer": "\"48 States\" là Hoa Kỳ, không bao gồm Alaska và Hawaii (tức 48 bang tiếp giáp, theo chú thích 3 của Bảng 4.1).",
+    "raw_answer": "```json\n{\"answer\": \"\\\"48 States\\\" là Hoa Kỳ, không bao gồm Alaska và Hawaii (tức 48 bang tiếp giáp, theo chú thích 3 của Bảng 4.1).\", \"pages\": [109]}\n```",
+    "citations": [
+      "page:109"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng năng lượng, \"48 States\" được hiểu là phạm vi nào?",
+        "results": [
+          {
+            "id": "aer2011:p362:t03",
+            "page": 362
+          },
+          {
+            "id": "aer2011:p109:t01",
+            "page": 109
+          },
+          {
+            "id": "aer2011:p357:t00",
+            "page": 357
+          },
+          {
+            "id": "aer2011:p109:t00",
+            "page": 109
+          },
+          {
+            "id": "aer2011:p109:t03",
+            "page": 109
+          },
+          {
+            "id": "aer2011:p128:f00",
+            "page": 128
+          },
+          {
+            "id": "aer2011:p026:r000",
+            "page": 26
+          },
+          {
+            "id": "aer2011:p108:f00",
+            "page": 108
+          },
+          {
+            "id": "aer2011:p242:r000",
+            "page": 242
+          },
+          {
+            "id": "aer2011:p035:t10",
+            "page": 35
+          },
+          {
+            "id": "aer2011:p276:r000",
+            "page": 276
+          },
+          {
+            "id": "aer2011:p049:r015",
+            "page": 49
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          362,
+          109,
+          357,
+          128,
+          26,
+          108
+        ]
+      }
+    ],
+    "elapsed_ms": 4751.633668000068
+  },
+  {
+    "query_id": "d16",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": [7, 58, 59, 60, 194, 367]}",
+    "citations": [
+      "page:7",
+      "page:58",
+      "page:59",
+      "page:60",
+      "page:194",
+      "page:367"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Annual Energy Review 2011, có số liệu về mức tiêu thụ năng lượng của Thái Lan không?",
+        "results": [
+          {
+            "id": "aer2011:p058:r000",
+            "page": 58
+          },
+          {
+            "id": "aer2011:p194:t06",
+            "page": 194
+          },
+          {
+            "id": "aer2011:p060:r004",
+            "page": 60
+          },
+          {
+            "id": "aer2011:p367:t02",
+            "page": 367
+          },
+          {
+            "id": "aer2011:p007:t03",
+            "page": 7
+          },
+          {
+            "id": "aer2011:p060:r012",
+            "page": 60
+          },
+          {
+            "id": "aer2011:p059:r001",
+            "page": 59
+          },
+          {
+            "id": "aer2011:p296:t08",
+            "page": 296
+          },
+          {
+            "id": "aer2011:p012:t04",
+            "page": 12
+          },
+          {
+            "id": "aer2011:p059:r000",
+            "page": 59
+          },
+          {
+            "id": "aer2011:p060:r013",
+            "page": 60
+          },
+          {
+            "id": "aer2011:p298:t02",
+            "page": 298
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          58,
+          194,
+          60,
+          367,
+          7,
+          59
+        ]
+      }
+    ],
+    "elapsed_ms": 4231.855632999213
+  },
+  {
+    "query_id": "d17",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu giá bán lẻ của điện thoại thông minh (smartphone) năm 2011 không?",
+        "results": [
+          {
+            "id": "aer2011:p012:t02",
+            "page": 12
+          },
+          {
+            "id": "aer2011:p274:r000",
+            "page": 274
+          },
+          {
+            "id": "aer2011:p011:t02",
+            "page": 11
+          },
+          {
+            "id": "aer2011:p274:r001",
+            "page": 274
+          },
+          {
+            "id": "aer2011:p010:t00",
+            "page": 10
+          },
+          {
+            "id": "aer2011:p316:f00",
+            "page": 316
+          },
+          {
+            "id": "aer2011:p012:t01",
+            "page": 12
+          },
+          {
+            "id": "aer2011:p275:r043",
+            "page": 275
+          },
+          {
+            "id": "aer2011:p012:t04",
+            "page": 12
+          },
+          {
+            "id": "aer2011:p275:r044",
+            "page": 275
+          },
+          {
+            "id": "aer2011:p011:t04",
+            "page": 11
+          },
+          {
+            "id": "aer2011:p281:r021",
+            "page": 281
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          12,
+          274,
+          11,
+          10,
+          316,
+          275
+        ]
+      }
+    ],
+    "elapsed_ms": 4284.935994000989
+  },
+  {
+    "query_id": "d18",
+    "group": "unanswerable",
+    "status": "answered",
+    "answer": "Không nêu trực tiếp giá uranium trên thị trường quốc tế. Hình 9.3 (Average Prices, 1981-2011) chỉ đưa ra giá bình quân theo đơn vị đô la danh nghĩa trên pound uranium oxide cho 'Domestic Purchases' và 'Purchased Imports' (uranium nhập khẩu). Năm 2011, giá nhập khẩu xấp xỉ 53 USD/lb, đọc từ biểu đồ và không phải số liệu chính xác. Số liệu chi tiết nằm ở Bảng 9.3, không có trong ảnh được cung cấp.",
+    "raw_answer": "```json\n{\"answer\": \"Không nêu trực tiếp giá uranium trên thị trường quốc tế. Hình 9.3 (Average Prices, 1981-2011) chỉ đưa ra giá bình quân theo đơn vị đô la danh nghĩa trên pound uranium oxide cho 'Domestic Purchases' và 'Purchased Imports' (uranium nhập khẩu). Năm 2011, giá nhập khẩu xấp xỉ 53 USD/lb, đọc từ biểu đồ và không phải số liệu chính xác. Số liệu chi tiết nằm ở Bảng 9.3, không có trong ảnh được cung cấp.\", \"pages\": [294]}\n```",
+    "citations": [
+      "page:294"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu giá uranium trên thị trường quốc tế năm 2011 không?",
+        "results": [
+          {
+            "id": "aer2011:p294:r001",
+            "page": 294
+          },
+          {
+            "id": "aer2011:p294:r000",
+            "page": 294
+          },
+          {
+            "id": "aer2011:p127:t03",
+            "page": 127
+          },
+          {
+            "id": "aer2011:p126:t01",
+            "page": 126
+          },
+          {
+            "id": "aer2011:p124:r001",
+            "page": 124
+          },
+          {
+            "id": "aer2011:p124:r000",
+            "page": 124
+          },
+          {
+            "id": "aer2011:p389:t06",
+            "page": 389
+          },
+          {
+            "id": "aer2011:p389:t04",
+            "page": 389
+          },
+          {
+            "id": "aer2011:p294:f00",
+            "page": 294
+          },
+          {
+            "id": "aer2011:p389:t05",
+            "page": 389
+          },
+          {
+            "id": "aer2011:p127:t00",
+            "page": 127
+          },
+          {
+            "id": "aer2011:p126:t00",
+            "page": 126
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          294,
+          127,
+          126,
+          124,
+          389
+        ]
+      }
+    ],
+    "elapsed_ms": 7414.86014200018
+  }
+]

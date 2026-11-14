@@ -1,0 +1,4776 @@
+[
+  {
+    "query_id": "t01",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.2, sản lượng khí tự nhiên khô (Natural Gas, dry) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 201
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 112
+          },
+          {
+            "id": null,
+            "page": 344
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 113
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 110
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 205
+          },
+          {
+            "id": null,
+            "page": 121
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 158
+          },
+          {
+            "id": null,
+            "page": 117
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 119
+          },
+          {
+            "id": null,
+            "page": 111
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 159
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          200,
+          23,
+          195,
+          201,
+          26,
+          112,
+          344,
+          30
+        ]
+      }
+    ],
+    "elapsed_ms": 3947.33336399986
+  },
+  {
+    "query_id": "t02",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 3.2, tổng giá trị sản xuất nhiên liệu hóa thạch năm 2000 (giá danh nghĩa) là bao nhiêu tỷ dollar?",
+        "results": [
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 103
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 102
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 105
+          },
+          {
+            "id": null,
+            "page": 192
+          },
+          {
+            "id": null,
+            "page": 32
+          },
+          {
+            "id": null,
+            "page": 100
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 78
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 338
+          },
+          {
+            "id": null,
+            "page": 91
+          },
+          {
+            "id": null,
+            "page": 164
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 156
+          },
+          {
+            "id": null,
+            "page": 104
+          },
+          {
+            "id": null,
+            "page": 180
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 343
+          },
+          {
+            "id": null,
+            "page": 101
+          },
+          {
+            "id": null,
+            "page": 166
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          165,
+          103,
+          148,
+          59,
+          52,
+          89,
+          170,
+          144
+        ]
+      }
+    ],
+    "elapsed_ms": 4488.974689000315
+  },
+  {
+    "query_id": "t03",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 6.1, lượng nhập khẩu khí tự nhiên năm 2000 là bao nhiêu tỷ foot khối (Bcf)?",
+        "results": [
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 152
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 233
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 312
+          },
+          {
+            "id": null,
+            "page": 146
+          },
+          {
+            "id": null,
+            "page": 219
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 100
+          },
+          {
+            "id": null,
+            "page": 102
+          },
+          {
+            "id": null,
+            "page": 322
+          },
+          {
+            "id": null,
+            "page": 210
+          },
+          {
+            "id": null,
+            "page": 158
+          },
+          {
+            "id": null,
+            "page": 203
+          },
+          {
+            "id": null,
+            "page": 246
+          },
+          {
+            "id": null,
+            "page": 220
+          },
+          {
+            "id": null,
+            "page": 338
+          },
+          {
+            "id": null,
+            "page": 78
+          },
+          {
+            "id": null,
+            "page": 150
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          224,
+          30,
+          138,
+          144,
+          165,
+          206,
+          139,
+          148
+        ]
+      }
+    ],
+    "elapsed_ms": 3331.7723870004556
+  },
+  {
+    "query_id": "t04",
+    "group": "table",
+    "status": "answered",
+    "answer": "541 triệu thùng (Bảng 5.16, năm 2000, cột SPR).",
+    "raw_answer": "{\"answer\": \"541 triệu thùng (Bảng 5.16, năm 2000, cột SPR).\", \"pages\": [177]}",
+    "citations": [
+      "page:177"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 5.16, tồn kho cuối năm 2000 của Dự trữ dầu chiến lược (SPR) là bao nhiêu triệu thùng?",
+        "results": [
+          {
+            "id": null,
+            "page": 176
+          },
+          {
+            "id": null,
+            "page": 178
+          },
+          {
+            "id": null,
+            "page": 177
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 179
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 183
+          },
+          {
+            "id": null,
+            "page": 164
+          },
+          {
+            "id": null,
+            "page": 172
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 154
+          },
+          {
+            "id": null,
+            "page": 342
+          },
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 180
+          },
+          {
+            "id": null,
+            "page": 156
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 140
+          },
+          {
+            "id": null,
+            "page": 146
+          },
+          {
+            "id": null,
+            "page": 167
+          },
+          {
+            "id": null,
+            "page": 152
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 162
+          },
+          {
+            "id": null,
+            "page": 184
+          },
+          {
+            "id": null,
+            "page": 174
+          },
+          {
+            "id": null,
+            "page": 166
+          },
+          {
+            "id": null,
+            "page": 187
+          },
+          {
+            "id": null,
+            "page": 141
+          },
+          {
+            "id": null,
+            "page": 338
+          },
+          {
+            "id": null,
+            "page": 169
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          176,
+          178,
+          177,
+          165,
+          139,
+          148,
+          179,
+          138
+        ]
+      }
+    ],
+    "elapsed_ms": 6255.119006000314
+  },
+  {
+    "query_id": "t05",
+    "group": "table",
+    "status": "answered",
+    "answer": "22.580 quadrillion Btu (Bảng 1.3, năm 2000, cột Coal)",
+    "raw_answer": "```json\n{\"answer\": \"22.580 quadrillion Btu (Bảng 1.3, năm 2000, cột Coal)\", \"pages\": [29]}\n```",
+    "citations": [
+      "page:29"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.3, lượng tiêu thụ than (Coal) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 270
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 219
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 220
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 218
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 222
+          },
+          {
+            "id": null,
+            "page": 215
+          },
+          {
+            "id": null,
+            "page": 345
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 235
+          },
+          {
+            "id": null,
+            "page": 31
+          },
+          {
+            "id": null,
+            "page": 223
+          },
+          {
+            "id": null,
+            "page": 234
+          },
+          {
+            "id": null,
+            "page": 221
+          },
+          {
+            "id": null,
+            "page": 236
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 248
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 162
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 103
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 46
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          270,
+          23,
+          26,
+          252,
+          29,
+          219,
+          52,
+          220
+        ]
+      }
+    ],
+    "elapsed_ms": 3898.9136300006066
+  },
+  {
+    "query_id": "t06",
+    "group": "table",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.3, lượng tiêu thụ khí tự nhiên (Natural Gas) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 112
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 344
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 201
+          },
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 113
+          },
+          {
+            "id": null,
+            "page": 205
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 158
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 270
+          },
+          {
+            "id": null,
+            "page": 330
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 159
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 110
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          112,
+          252,
+          344,
+          88,
+          26,
+          239,
+          195
+        ]
+      }
+    ],
+    "elapsed_ms": 4025.6988420005655
+  },
+  {
+    "query_id": "t07",
+    "group": "image",
+    "status": "answered",
+    "answer": "27.08 quadrillion Btu (Transportation trong Figure 1.0 Energy Flow, 2011)",
+    "raw_answer": "{\"answer\": \"27.08 quadrillion Btu (Transportation trong Figure 1.0 Energy Flow, 2011)\", \"pages\": [23]}",
+    "citations": [
+      "page:23"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), lượng năng lượng dùng cho giao thông (Transportation) là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 93
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 328
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 64
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 95
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 21
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 70
+          },
+          {
+            "id": null,
+            "page": 367
+          },
+          {
+            "id": null,
+            "page": 303
+          },
+          {
+            "id": null,
+            "page": 32
+          },
+          {
+            "id": null,
+            "page": 31
+          },
+          {
+            "id": null,
+            "page": 247
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          239,
+          30,
+          49,
+          80,
+          9,
+          47,
+          58
+        ]
+      }
+    ],
+    "elapsed_ms": 4055.7156470003974
+  },
+  {
+    "query_id": "t08",
+    "group": "image",
+    "status": "answered",
+    "answer": "10.36 quadrillion Btu",
+    "raw_answer": "```json\n{\"answer\": \"10.36 quadrillion Btu\", \"pages\": [23]}\n```",
+    "citations": [
+      "page:23"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), tổng xuất khẩu (Exports) là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 203
+          },
+          {
+            "id": null,
+            "page": 93
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 31
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 217
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 225
+          },
+          {
+            "id": null,
+            "page": 101
+          },
+          {
+            "id": null,
+            "page": 102
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 123
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          30,
+          239,
+          25,
+          137,
+          9,
+          49,
+          29
+        ]
+      }
+    ],
+    "elapsed_ms": 5308.136813999226
+  },
+  {
+    "query_id": "t09",
+    "group": "image",
+    "status": "answered",
+    "answer": "3.4 trillion cubic feet (Repressuring trong Production Flow, 2011, Figure 6.2)",
+    "raw_answer": "```json\n{\"answer\": \"3.4 trillion cubic feet (Repressuring trong Production Flow, 2011, Figure 6.2)\", \"pages\": [200]}\n```",
+    "citations": [
+      "page:200"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Production Flow 2011 (Figure 6.2), lượng Repressuring là bao nhiêu trillion cubic feet?",
+        "results": [
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 201
+          },
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 110
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 158
+          },
+          {
+            "id": null,
+            "page": 111
+          },
+          {
+            "id": null,
+            "page": 217
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 207
+          },
+          {
+            "id": null,
+            "page": 210
+          },
+          {
+            "id": null,
+            "page": 262
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 156
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 24
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 100
+          },
+          {
+            "id": null,
+            "page": 159
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          137,
+          206,
+          239,
+          197,
+          200,
+          198,
+          201,
+          204
+        ]
+      }
+    ],
+    "elapsed_ms": 4151.51872899969
+  },
+  {
+    "query_id": "t10",
+    "group": "image",
+    "status": "answered",
+    "answer": "80 mét (80 meters). Figure 4.13 thể hiện tốc độ gió trung bình hằng năm ở độ cao 80 m, đơn vị m/s.",
+    "raw_answer": "{\"answer\": \"80 mét (80 meters). Figure 4.13 thể hiện tốc độ gió trung bình hằng năm ở độ cao 80 m, đơn vị m/s.\", \"pages\": [130]}",
+    "citations": [
+      "page:130"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Bản đồ Onshore Wind Resources (Figure 4.13) đo tốc độ gió trung bình ở độ cao bao nhiêu mét?",
+        "results": [
+          {
+            "id": null,
+            "page": 130
+          },
+          {
+            "id": null,
+            "page": 131
+          },
+          {
+            "id": null,
+            "page": 128
+          },
+          {
+            "id": null,
+            "page": 114
+          },
+          {
+            "id": null,
+            "page": 132
+          },
+          {
+            "id": null,
+            "page": 129
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 266
+          },
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 379
+          },
+          {
+            "id": null,
+            "page": 276
+          },
+          {
+            "id": null,
+            "page": 365
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 312
+          },
+          {
+            "id": null,
+            "page": 364
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 133
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 226
+          },
+          {
+            "id": null,
+            "page": 304
+          },
+          {
+            "id": null,
+            "page": 143
+          },
+          {
+            "id": null,
+            "page": 107
+          },
+          {
+            "id": null,
+            "page": 283
+          },
+          {
+            "id": null,
+            "page": 169
+          },
+          {
+            "id": null,
+            "page": 282
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 54
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          130,
+          131,
+          128,
+          114,
+          132,
+          129,
+          17,
+          266
+        ]
+      }
+    ],
+    "elapsed_ms": 5307.639179000034
+  },
+  {
+    "query_id": "t11",
+    "group": "image",
+    "status": "answered",
+    "answer": "kWh/m²/Day (kilowatt-hours per square meter per day), hiển thị là chỉ số bức xạ trực tiếp pháp tuyến (annual average direct normal solar resource).",
+    "raw_answer": "{\"answer\": \"kWh/m²/Day (kilowatt-hours per square meter per day), hiển thị là chỉ số bức xạ trực tiếp pháp tuyến (annual average direct normal solar resource).\", \"pages\": [128]}",
+    "citations": [
+      "page:128"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Bản đồ Concentrating Solar Resources (Figure 4.11) đo tài nguyên bằng đơn vị nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 128
+          },
+          {
+            "id": null,
+            "page": 129
+          },
+          {
+            "id": null,
+            "page": 107
+          },
+          {
+            "id": null,
+            "page": 132
+          },
+          {
+            "id": null,
+            "page": 366
+          },
+          {
+            "id": null,
+            "page": 133
+          },
+          {
+            "id": null,
+            "page": 315
+          },
+          {
+            "id": null,
+            "page": 304
+          },
+          {
+            "id": null,
+            "page": 312
+          },
+          {
+            "id": null,
+            "page": 14
+          },
+          {
+            "id": null,
+            "page": 276
+          },
+          {
+            "id": null,
+            "page": 298
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 301
+          },
+          {
+            "id": null,
+            "page": 363
+          },
+          {
+            "id": null,
+            "page": 365
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 300
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 130
+          },
+          {
+            "id": null,
+            "page": 389
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 387
+          },
+          {
+            "id": null,
+            "page": 242
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 290
+          },
+          {
+            "id": null,
+            "page": 108
+          },
+          {
+            "id": null,
+            "page": 123
+          },
+          {
+            "id": null,
+            "page": 299
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 77
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          128,
+          129,
+          107,
+          132,
+          366,
+          133,
+          315,
+          304
+        ]
+      }
+    ],
+    "elapsed_ms": 4830.621606999557
+  },
+  {
+    "query_id": "t12",
+    "group": "chart",
+    "status": "answered",
+    "answer": "Năm 1981 có lượng nhập cao nhất, khoảng 93 triệu thùng (Million Barrels) trong biểu đồ Crude Oil Imports for SPR (Figure 5.17). Bảng 5.17 ghi 93,30 triệu thùng cho năm 1981.",
+    "raw_answer": "{\"answer\": \"Năm 1981 có lượng nhập cao nhất, khoảng 93 triệu thùng (Million Barrels) trong biểu đồ Crude Oil Imports for SPR (Figure 5.17). Bảng 5.17 ghi 93,30 triệu thùng cho năm 1981.\", \"pages\": [178, 179]}",
+    "citations": [
+      "page:178",
+      "page:179"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ Crude Oil Imports for SPR (Figure 5.17), năm nào có lượng nhập cao nhất và giá trị là bao nhiêu triệu thùng?",
+        "results": [
+          {
+            "id": null,
+            "page": 178
+          },
+          {
+            "id": null,
+            "page": 176
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 179
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 177
+          },
+          {
+            "id": null,
+            "page": 184
+          },
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 183
+          },
+          {
+            "id": null,
+            "page": 145
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 11
+          },
+          {
+            "id": null,
+            "page": 185
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 18
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 143
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 164
+          },
+          {
+            "id": null,
+            "page": 180
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 182
+          },
+          {
+            "id": null,
+            "page": 194
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 146
+          },
+          {
+            "id": null,
+            "page": 110
+          },
+          {
+            "id": null,
+            "page": 119
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 31
+          },
+          {
+            "id": null,
+            "page": 199
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          178,
+          176,
+          137,
+          179,
+          138,
+          177,
+          184,
+          142
+        ]
+      }
+    ],
+    "elapsed_ms": 4361.9641880004565
+  },
+  {
+    "query_id": "t13",
+    "group": "chart",
+    "status": "answered",
+    "answer": "115 ngày, năm 1985",
+    "raw_answer": "{\"answer\": \"115 ngày, năm 1985\", \"pages\": [178, 179]}",
+    "citations": [
+      "page:178",
+      "page:179"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ SPR Stocks as Days of Petroleum Net Imports (Figure 5.17), giá trị cao nhất là bao nhiêu ngày và ở năm nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 176
+          },
+          {
+            "id": null,
+            "page": 178
+          },
+          {
+            "id": null,
+            "page": 179
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 177
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 11
+          },
+          {
+            "id": null,
+            "page": 152
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 153
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 18
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 203
+          },
+          {
+            "id": null,
+            "page": 104
+          },
+          {
+            "id": null,
+            "page": 270
+          },
+          {
+            "id": null,
+            "page": 228
+          },
+          {
+            "id": null,
+            "page": 162
+          },
+          {
+            "id": null,
+            "page": 184
+          },
+          {
+            "id": null,
+            "page": 233
+          },
+          {
+            "id": null,
+            "page": 164
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 145
+          },
+          {
+            "id": null,
+            "page": 146
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 147
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 183
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          176,
+          178,
+          179,
+          138,
+          177,
+          137,
+          11,
+          152
+        ]
+      }
+    ],
+    "elapsed_ms": 5934.852123999917
+  },
+  {
+    "query_id": "t14",
+    "group": "chart",
+    "status": "answered",
+    "answer": "22,4 trillion cubic feet (Natural Gas Wells, Figure 6.2 \"Gross Withdrawals by Well Type, 2011\", năm 2011)",
+    "raw_answer": "{\"answer\": \"22,4 trillion cubic feet (Natural Gas Wells, Figure 6.2 \\\"Gross Withdrawals by Well Type, 2011\\\", năm 2011)\", \"pages\": [200]}",
+    "citations": [
+      "page:200"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ Gross Withdrawals by Well Type, 2011 (Figure 6.2), giếng khí tự nhiên (Natural Gas Wells) có giá trị bao nhiêu trillion cubic feet?",
+        "results": [
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 201
+          },
+          {
+            "id": null,
+            "page": 120
+          },
+          {
+            "id": null,
+            "page": 205
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 118
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 110
+          },
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 112
+          },
+          {
+            "id": null,
+            "page": 113
+          },
+          {
+            "id": null,
+            "page": 119
+          },
+          {
+            "id": null,
+            "page": 116
+          },
+          {
+            "id": null,
+            "page": 121
+          },
+          {
+            "id": null,
+            "page": 212
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 210
+          },
+          {
+            "id": null,
+            "page": 373
+          },
+          {
+            "id": null,
+            "page": 117
+          },
+          {
+            "id": null,
+            "page": 382
+          },
+          {
+            "id": null,
+            "page": 209
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 111
+          },
+          {
+            "id": null,
+            "page": 211
+          },
+          {
+            "id": null,
+            "page": 158
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 239
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          197,
+          200,
+          204,
+          201,
+          120,
+          205,
+          206,
+          198
+        ]
+      }
+    ],
+    "elapsed_ms": 4220.194208000066
+  },
+  {
+    "query_id": "t15",
+    "group": "chart",
+    "status": "answered",
+    "answer": "Shipments có giá trị -0,6 quadrillion Btu, mang dấu âm (trừ). Đây là Figure 2.2 (Manufacturing Energy Consumption for All Purposes, 2006), phần By Energy Source.",
+    "raw_answer": "{\"answer\": \"Shipments có giá trị -0,6 quadrillion Btu, mang dấu âm (trừ). Đây là Figure 2.2 (Manufacturing Energy Consumption for All Purposes, 2006), phần By Energy Source.\", \"pages\": [66]}",
+    "citations": [
+      "page:66"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), giá trị của Shipments là bao nhiêu quadrillion Btu và có dấu gì?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 93
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 316
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 96
+          },
+          {
+            "id": null,
+            "page": 312
+          },
+          {
+            "id": null,
+            "page": 67
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 313
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 347
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 102
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 57
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 255
+          },
+          {
+            "id": null,
+            "page": 100
+          },
+          {
+            "id": null,
+            "page": 16
+          },
+          {
+            "id": null,
+            "page": 367
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          30,
+          92,
+          66,
+          26,
+          80,
+          93,
+          239
+        ]
+      }
+    ],
+    "elapsed_ms": 3919.508783999845
+  },
+  {
+    "query_id": "t16",
+    "group": "chart",
+    "status": "answered",
+    "answer": "5.9 quadrillion Btu",
+    "raw_answer": "```json\n{\"answer\": \"5.9 quadrillion Btu\", \"pages\": [66]}\n```",
+    "citations": [
+      "page:66"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), khí tự nhiên (Natural Gas) có giá trị bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 112
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 96
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 201
+          },
+          {
+            "id": null,
+            "page": 57
+          },
+          {
+            "id": null,
+            "page": 93
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 16
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 344
+          },
+          {
+            "id": null,
+            "page": 110
+          },
+          {
+            "id": null,
+            "page": 330
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 113
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 158
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          26,
+          195,
+          239,
+          92,
+          66,
+          206,
+          29
+        ]
+      }
+    ],
+    "elapsed_ms": 4160.351256000467
+  },
+  {
+    "query_id": "t17",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Năm 2000, sản lượng than (Bảng 1.2) lớn hơn tiêu thụ than (Bảng 1.3) bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 248
+          },
+          {
+            "id": null,
+            "page": 63
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 233
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 162
+          },
+          {
+            "id": null,
+            "page": 257
+          },
+          {
+            "id": null,
+            "page": 67
+          },
+          {
+            "id": null,
+            "page": 218
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 102
+          },
+          {
+            "id": null,
+            "page": 69
+          },
+          {
+            "id": null,
+            "page": 70
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          30,
+          252,
+          46,
+          47,
+          80,
+          239,
+          92,
+          71
+        ]
+      }
+    ],
+    "elapsed_ms": 3913.1702819995553
+  },
+  {
+    "query_id": "t18",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Năm 2000, sản lượng nhiên liệu hóa thạch (Bảng 1.2) chiếm bao nhiêu phần trăm tổng tiêu thụ nhiên liệu hóa thạch (Bảng 1.3)? Làm tròn một chữ số thập phân.",
+        "results": [
+          {
+            "id": null,
+            "page": 103
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 105
+          },
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 102
+          },
+          {
+            "id": null,
+            "page": 53
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 344
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 191
+          },
+          {
+            "id": null,
+            "page": 100
+          },
+          {
+            "id": null,
+            "page": 334
+          },
+          {
+            "id": null,
+            "page": 78
+          },
+          {
+            "id": null,
+            "page": 91
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 189
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 261
+          },
+          {
+            "id": null,
+            "page": 247
+          },
+          {
+            "id": null,
+            "page": 269
+          },
+          {
+            "id": null,
+            "page": 328
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          103,
+          89,
+          52,
+          59,
+          47,
+          46,
+          105,
+          144
+        ]
+      }
+    ],
+    "elapsed_ms": 5595.453471999463
+  },
+  {
+    "query_id": "t19",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Sản lượng nhiên liệu hóa thạch năm 2011 trong Bảng 1.1 và trong Bảng 1.2 có khớp không? Ghi giá trị.",
+        "results": [
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 191
+          },
+          {
+            "id": null,
+            "page": 53
+          },
+          {
+            "id": null,
+            "page": 189
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 91
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 329
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 344
+          },
+          {
+            "id": null,
+            "page": 16
+          },
+          {
+            "id": null,
+            "page": 217
+          },
+          {
+            "id": null,
+            "page": 103
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 105
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 328
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 163
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 334
+          },
+          {
+            "id": null,
+            "page": 264
+          },
+          {
+            "id": null,
+            "page": 219
+          },
+          {
+            "id": null,
+            "page": 266
+          },
+          {
+            "id": null,
+            "page": 327
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          47,
+          89,
+          191,
+          53,
+          189,
+          46,
+          49,
+          71
+        ]
+      }
+    ],
+    "elapsed_ms": 6096.599641000466
+  },
+  {
+    "query_id": "t20",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": [23]}\n```",
+    "citations": [
+      "page:23"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Sản lượng than năm 2011 trong Hình 1.0 (Energy Flow) có khớp với Bảng 1.2 không? Ghi giá trị ở cả hai nguồn.",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 217
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 219
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 334
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 257
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 123
+          },
+          {
+            "id": null,
+            "page": 69
+          },
+          {
+            "id": null,
+            "page": 329
+          },
+          {
+            "id": null,
+            "page": 256
+          },
+          {
+            "id": null,
+            "page": 266
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 247
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 221
+          },
+          {
+            "id": null,
+            "page": 218
+          },
+          {
+            "id": null,
+            "page": 68
+          },
+          {
+            "id": null,
+            "page": 31
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 280
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 327
+          },
+          {
+            "id": null,
+            "page": 220
+          },
+          {
+            "id": null,
+            "page": 170
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          9,
+          217,
+          137,
+          239,
+          49,
+          219,
+          66
+        ]
+      }
+    ],
+    "elapsed_ms": 6426.869126999918
+  },
+  {
+    "query_id": "t21",
+    "group": "text",
+    "status": "answered",
+    "answer": "Theo chú thích 1 của Bảng 4.2 (Crude Oil and Lease Condensate), lease condensate là phần natural gas liquids được tách khỏi dòng khí tại đầu giếng (wellhead gas stream) ở một cơ sở tách tại mỏ (lease) hoặc tại trường (field separation facility). Bảng 5.16 không có chú thích định nghĩa riêng cho thuật ngữ này.",
+    "raw_answer": "{\"answer\": \"Theo chú thích 1 của Bảng 4.2 (Crude Oil and Lease Condensate), lease condensate là phần natural gas liquids được tách khỏi dòng khí tại đầu giếng (wellhead gas stream) ở một cơ sở tách tại mỏ (lease) hoặc tại trường (field separation facility). Bảng 5.16 không có chú thích định nghĩa riêng cho thuật ngữ này.\", \"pages\": [111]}",
+    "citations": [
+      "page:111"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng dầu mỏ, \"Lease Condensate\" (ngưng tụ khí tại mỏ) là gì?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 382
+          },
+          {
+            "id": null,
+            "page": 386
+          },
+          {
+            "id": null,
+            "page": 372
+          },
+          {
+            "id": null,
+            "page": 111
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 177
+          },
+          {
+            "id": null,
+            "page": 373
+          },
+          {
+            "id": null,
+            "page": 369
+          },
+          {
+            "id": null,
+            "page": 380
+          },
+          {
+            "id": null,
+            "page": 385
+          },
+          {
+            "id": null,
+            "page": 379
+          },
+          {
+            "id": null,
+            "page": 378
+          },
+          {
+            "id": null,
+            "page": 110
+          },
+          {
+            "id": null,
+            "page": 389
+          },
+          {
+            "id": null,
+            "page": 381
+          },
+          {
+            "id": null,
+            "page": 194
+          },
+          {
+            "id": null,
+            "page": 176
+          },
+          {
+            "id": null,
+            "page": 109
+          },
+          {
+            "id": null,
+            "page": 135
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 341
+          },
+          {
+            "id": null,
+            "page": 140
+          },
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 108
+          },
+          {
+            "id": null,
+            "page": 374
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 390
+          },
+          {
+            "id": null,
+            "page": 371
+          },
+          {
+            "id": null,
+            "page": 215
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 26
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          23,
+          382,
+          386,
+          372,
+          111,
+          138,
+          177,
+          373
+        ]
+      }
+    ],
+    "elapsed_ms": 5864.70286399981
+  },
+  {
+    "query_id": "t22",
+    "group": "text",
+    "status": "answered",
+    "answer": "1977. Chú thích 1 của Bảng 5.16 ghi \"SPR\" là Dự trữ dầu chiến lược (Strategic Petroleum Reserve), bắt đầu từ năm 1977.",
+    "raw_answer": "```json\n{\"answer\": \"1977. Chú thích 1 của Bảng 5.16 ghi \\\"SPR\\\" là Dự trữ dầu chiến lược (Strategic Petroleum Reserve), bắt đầu từ năm 1977.\", \"pages\": [177]}\n```",
+    "citations": [
+      "page:177"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của Bảng 5.16, \"SPR\" (Dự trữ dầu chiến lược) bắt đầu hoạt động từ năm nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 176
+          },
+          {
+            "id": null,
+            "page": 178
+          },
+          {
+            "id": null,
+            "page": 177
+          },
+          {
+            "id": null,
+            "page": 140
+          },
+          {
+            "id": null,
+            "page": 179
+          },
+          {
+            "id": null,
+            "page": 141
+          },
+          {
+            "id": null,
+            "page": 183
+          },
+          {
+            "id": null,
+            "page": 167
+          },
+          {
+            "id": null,
+            "page": 187
+          },
+          {
+            "id": null,
+            "page": 11
+          },
+          {
+            "id": null,
+            "page": 168
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 149
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 154
+          },
+          {
+            "id": null,
+            "page": 164
+          },
+          {
+            "id": null,
+            "page": 169
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 166
+          },
+          {
+            "id": null,
+            "page": 342
+          },
+          {
+            "id": null,
+            "page": 60
+          },
+          {
+            "id": null,
+            "page": 64
+          },
+          {
+            "id": null,
+            "page": 151
+          },
+          {
+            "id": null,
+            "page": 91
+          },
+          {
+            "id": null,
+            "page": 245
+          },
+          {
+            "id": null,
+            "page": 328
+          },
+          {
+            "id": null,
+            "page": 194
+          },
+          {
+            "id": null,
+            "page": 172
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          176,
+          178,
+          177,
+          140,
+          179,
+          141,
+          183,
+          167
+        ]
+      }
+    ],
+    "elapsed_ms": 5422.141238000222
+  },
+  {
+    "query_id": "t23",
+    "group": "text",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của Hình 1.0, \"Total energy consumption\" được định nghĩa là gì?",
+        "results": [
+          {
+            "id": null,
+            "page": 55
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 21
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 288
+          },
+          {
+            "id": null,
+            "page": 32
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 73
+          },
+          {
+            "id": null,
+            "page": 367
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 93
+          },
+          {
+            "id": null,
+            "page": 247
+          },
+          {
+            "id": null,
+            "page": 366
+          },
+          {
+            "id": null,
+            "page": 253
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 60
+          },
+          {
+            "id": null,
+            "page": 96
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 123
+          },
+          {
+            "id": null,
+            "page": 33
+          },
+          {
+            "id": null,
+            "page": 298
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 280
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          55,
+          46,
+          49,
+          21,
+          34,
+          59,
+          45,
+          58
+        ]
+      }
+    ],
+    "elapsed_ms": 5018.402984999739
+  },
+  {
+    "query_id": "t24",
+    "group": "text",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": [4]}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong chú thích bảng về điện (trang 284), \"ERCOT\" là viết tắt của tổ chức nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 245
+          },
+          {
+            "id": null,
+            "page": 244
+          },
+          {
+            "id": null,
+            "page": 3
+          },
+          {
+            "id": null,
+            "page": 254
+          },
+          {
+            "id": null,
+            "page": 65
+          },
+          {
+            "id": null,
+            "page": 253
+          },
+          {
+            "id": null,
+            "page": 304
+          },
+          {
+            "id": null,
+            "page": 251
+          },
+          {
+            "id": null,
+            "page": 325
+          },
+          {
+            "id": null,
+            "page": 336
+          },
+          {
+            "id": null,
+            "page": 241
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 21
+          },
+          {
+            "id": null,
+            "page": 287
+          },
+          {
+            "id": null,
+            "page": 237
+          },
+          {
+            "id": null,
+            "page": 168
+          },
+          {
+            "id": null,
+            "page": 268
+          },
+          {
+            "id": null,
+            "page": 107
+          },
+          {
+            "id": null,
+            "page": 167
+          },
+          {
+            "id": null,
+            "page": 1
+          },
+          {
+            "id": null,
+            "page": 384
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 247
+          },
+          {
+            "id": null,
+            "page": 388
+          },
+          {
+            "id": null,
+            "page": 370
+          },
+          {
+            "id": null,
+            "page": 99
+          },
+          {
+            "id": null,
+            "page": 376
+          },
+          {
+            "id": null,
+            "page": 375
+          },
+          {
+            "id": null,
+            "page": 175
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 84
+          },
+          {
+            "id": null,
+            "page": 363
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          245,
+          244,
+          3,
+          254,
+          65,
+          253,
+          304,
+          251
+        ]
+      }
+    ],
+    "elapsed_ms": 8128.407689000596
+  },
+  {
+    "query_id": "t25",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu mức tiêu thụ năng lượng của Việt Nam năm 2011 không?",
+        "results": [
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 48
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 32
+          },
+          {
+            "id": null,
+            "page": 24
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 256
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 298
+          },
+          {
+            "id": null,
+            "page": 222
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 272
+          },
+          {
+            "id": null,
+            "page": 44
+          },
+          {
+            "id": null,
+            "page": 301
+          },
+          {
+            "id": null,
+            "page": 304
+          },
+          {
+            "id": null,
+            "page": 13
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 305
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 11
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 324
+          },
+          {
+            "id": null,
+            "page": 302
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 266
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          58,
+          59,
+          47,
+          28,
+          10,
+          48,
+          12,
+          252
+        ]
+      }
+    ],
+    "elapsed_ms": 4834.871584000211
+  },
+  {
+    "query_id": "t26",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}\n```",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu điện năng tiêu thụ cho khai thác Bitcoin không?",
+        "results": [
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 21
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 3
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 57
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 5
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 84
+          },
+          {
+            "id": null,
+            "page": 60
+          },
+          {
+            "id": null,
+            "page": 14
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 48
+          },
+          {
+            "id": null,
+            "page": 69
+          },
+          {
+            "id": null,
+            "page": 18
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 2
+          },
+          {
+            "id": null,
+            "page": 15
+          },
+          {
+            "id": null,
+            "page": 1
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 369
+          },
+          {
+            "id": null,
+            "page": 364
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 24
+          },
+          {
+            "id": null,
+            "page": 375
+          },
+          {
+            "id": null,
+            "page": 65
+          },
+          {
+            "id": null,
+            "page": 288
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          7,
+          21,
+          54,
+          3,
+          20,
+          57,
+          45,
+          5
+        ]
+      }
+    ],
+    "elapsed_ms": 4858.457403999637
+  },
+  {
+    "query_id": "t27",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "```json\n{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": [12]}\n```",
+    "citations": [
+      "page:12"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu doanh số xe điện (electric vehicle) của Hoa Kỳ năm 2011 không?",
+        "results": [
+          {
+            "id": null,
+            "page": 279
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 305
+          },
+          {
+            "id": null,
+            "page": 280
+          },
+          {
+            "id": null,
+            "page": 169
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 329
+          },
+          {
+            "id": null,
+            "page": 65
+          },
+          {
+            "id": null,
+            "page": 222
+          },
+          {
+            "id": null,
+            "page": 228
+          },
+          {
+            "id": null,
+            "page": 78
+          },
+          {
+            "id": null,
+            "page": 278
+          },
+          {
+            "id": null,
+            "page": 14
+          },
+          {
+            "id": null,
+            "page": 13
+          },
+          {
+            "id": null,
+            "page": 304
+          },
+          {
+            "id": null,
+            "page": 164
+          },
+          {
+            "id": null,
+            "page": 301
+          },
+          {
+            "id": null,
+            "page": 277
+          },
+          {
+            "id": null,
+            "page": 212
+          },
+          {
+            "id": null,
+            "page": 369
+          },
+          {
+            "id": null,
+            "page": 207
+          },
+          {
+            "id": null,
+            "page": 245
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 272
+          },
+          {
+            "id": null,
+            "page": 246
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 288
+          },
+          {
+            "id": null,
+            "page": 262
+          },
+          {
+            "id": null,
+            "page": 276
+          },
+          {
+            "id": null,
+            "page": 242
+          },
+          {
+            "id": null,
+            "page": 282
+          },
+          {
+            "id": null,
+            "page": 213
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          279,
+          281,
+          305,
+          280,
+          169,
+          12,
+          329,
+          65
+        ]
+      }
+    ],
+    "elapsed_ms": 5917.109488999813
+  },
+  {
+    "query_id": "t28",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có đánh giá tác động của COVID-19 đến tiêu thụ năng lượng không?",
+        "results": [
+          {
+            "id": null,
+            "page": 60
+          },
+          {
+            "id": null,
+            "page": 255
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 302
+          },
+          {
+            "id": null,
+            "page": 64
+          },
+          {
+            "id": null,
+            "page": 253
+          },
+          {
+            "id": null,
+            "page": 368
+          },
+          {
+            "id": null,
+            "page": 65
+          },
+          {
+            "id": null,
+            "page": 337
+          },
+          {
+            "id": null,
+            "page": 329
+          },
+          {
+            "id": null,
+            "page": 254
+          },
+          {
+            "id": null,
+            "page": 279
+          },
+          {
+            "id": null,
+            "page": 278
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 261
+          },
+          {
+            "id": null,
+            "page": 241
+          },
+          {
+            "id": null,
+            "page": 63
+          },
+          {
+            "id": null,
+            "page": 169
+          },
+          {
+            "id": null,
+            "page": 307
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 280
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 369
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 345
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 326
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 183
+          },
+          {
+            "id": null,
+            "page": 364
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          60,
+          255,
+          45,
+          62,
+          302,
+          64,
+          253,
+          368
+        ]
+      }
+    ],
+    "elapsed_ms": 5226.539040000716
+  },
+  {
+    "query_id": "t29",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu sản lượng của công ty Tesla không?",
+        "results": [
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 3
+          },
+          {
+            "id": null,
+            "page": 2
+          },
+          {
+            "id": null,
+            "page": 14
+          },
+          {
+            "id": null,
+            "page": 24
+          },
+          {
+            "id": null,
+            "page": 11
+          },
+          {
+            "id": null,
+            "page": 19
+          },
+          {
+            "id": null,
+            "page": 54
+          },
+          {
+            "id": null,
+            "page": 316
+          },
+          {
+            "id": null,
+            "page": 156
+          },
+          {
+            "id": null,
+            "page": 1
+          },
+          {
+            "id": null,
+            "page": 5
+          },
+          {
+            "id": null,
+            "page": 133
+          },
+          {
+            "id": null,
+            "page": 291
+          },
+          {
+            "id": null,
+            "page": 25
+          },
+          {
+            "id": null,
+            "page": 383
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 4
+          },
+          {
+            "id": null,
+            "page": 376
+          },
+          {
+            "id": null,
+            "page": 317
+          },
+          {
+            "id": null,
+            "page": 6
+          },
+          {
+            "id": null,
+            "page": 90
+          },
+          {
+            "id": null,
+            "page": 308
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 16
+          },
+          {
+            "id": null,
+            "page": 8
+          },
+          {
+            "id": null,
+            "page": 78
+          },
+          {
+            "id": null,
+            "page": 319
+          },
+          {
+            "id": null,
+            "page": 74
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 9
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          17,
+          7,
+          3,
+          2,
+          14,
+          24,
+          11,
+          19
+        ]
+      }
+    ],
+    "elapsed_ms": 4280.138963000354
+  },
+  {
+    "query_id": "t30",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "raw_answer": "{\"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có số liệu về năng lượng tiêu thụ tại Nam Cực (Antarctic) không?",
+        "results": [
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 15
+          },
+          {
+            "id": null,
+            "page": 3
+          },
+          {
+            "id": null,
+            "page": 60
+          },
+          {
+            "id": null,
+            "page": 24
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 32
+          },
+          {
+            "id": null,
+            "page": 14
+          },
+          {
+            "id": null,
+            "page": 48
+          },
+          {
+            "id": null,
+            "page": 5
+          },
+          {
+            "id": null,
+            "page": 21
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 96
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 61
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 98
+          },
+          {
+            "id": null,
+            "page": 2
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 63
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 10
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 33
+          },
+          {
+            "id": null,
+            "page": 99
+          },
+          {
+            "id": null,
+            "page": 1
+          }
+        ]
+      },
+      {
+        "event": "answer",
+        "pages_shown": [
+          7,
+          20,
+          28,
+          34,
+          58,
+          15,
+          3,
+          60
+        ]
+      }
+    ],
+    "elapsed_ms": 6687.683264000043
+  }
+]

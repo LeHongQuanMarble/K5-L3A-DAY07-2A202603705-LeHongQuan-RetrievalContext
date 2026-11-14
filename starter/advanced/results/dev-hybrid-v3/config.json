@@ -1,0 +1,18 @@
+{
+  "split": "dev",
+  "method": "hybrid",
+  "top_k": 3,
+  "budget_chars": 2500,
+  "prompt": "v3",
+  "max_searches": 4,
+  "pack": "score",
+  "model": "claude-haiku-5-5",
+  "index": "data/advanced/index (aer2011, text + figure descriptions)",
+  "n": 18,
+  "wall_seconds": 103.7,
+  "usage": {
+    "calls": 69,
+    "input_tokens": 118780,
+    "output_tokens": 7994
+  }
+}

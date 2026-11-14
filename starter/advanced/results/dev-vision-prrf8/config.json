@@ -1,0 +1,14 @@
+{
+  "split": "dev",
+  "mode": "vision_pages",
+  "page_selection": "page_rrf",
+  "pages_shown": 8,
+  "model": "claude-haiku-5-5",
+  "n": 18,
+  "wall_seconds": 98.9,
+  "usage": {
+    "calls": 18,
+    "input_tokens": 222002,
+    "output_tokens": 6239
+  }
+}

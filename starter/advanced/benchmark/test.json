@@ -1,0 +1,448 @@
+[
+  {
+    "id": "t01",
+    "split": "test",
+    "group": "table",
+    "question": "Theo Bảng 1.2, sản lượng khí tự nhiên khô (Natural Gas, dry) năm 2000 là bao nhiêu quadrillion Btu?",
+    "expected_answer": "19.662 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 27,
+        "evidence": "2000 | 22.735 | 19.662 | 12.358 | 2.611 | 57.366"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "group": "table",
+    "question": "Theo Bảng 3.2, tổng giá trị sản xuất nhiên liệu hóa thạch năm 2000 (giá danh nghĩa) là bao nhiêu tỷ dollar?",
+    "expected_answer": "149.27 tỷ dollar",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 91,
+        "evidence": "2000 | 18.02 | R20.30 | 74.33 | R83.77 | 56.93 | R64.17 | 149.27 | R168.25"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "group": "table",
+    "question": "Theo Bảng 6.1, lượng nhập khẩu khí tự nhiên năm 2000 là bao nhiêu tỷ foot khối (Bcf)?",
+    "expected_answer": "3,782 Bcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 199,
+        "evidence": "2000 | 19,182 | 90 | 3,782 | 244"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "group": "table",
+    "question": "Theo Bảng 5.16, tồn kho cuối năm 2000 của Dự trữ dầu chiến lược (SPR) là bao nhiêu triệu thùng?",
+    "expected_answer": "541 triệu thùng",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 177,
+        "evidence": "2000 | 541 | 286 | 826"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "group": "table",
+    "question": "Theo Bảng 1.3, lượng tiêu thụ than (Coal) năm 2000 là bao nhiêu quadrillion Btu?",
+    "expected_answer": "22.580 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 29,
+        "evidence": "2000 | 22.580 | .065 | 23.824 | 38.262 | 84.731"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t06",
+    "split": "test",
+    "group": "table",
+    "question": "Theo Bảng 1.3, lượng tiêu thụ khí tự nhiên (Natural Gas) năm 2000 là bao nhiêu quadrillion Btu?",
+    "expected_answer": "23.824 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 29,
+        "evidence": "2000 | 22.580 | .065 | 23.824 | 38.262 | 84.731"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t07",
+    "split": "test",
+    "group": "image",
+    "question": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), lượng năng lượng dùng cho giao thông (Transportation) là bao nhiêu quadrillion Btu?",
+    "expected_answer": "27.08 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 23,
+        "visual": "Figure 1.0: nhãn Transportation 27.08"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t08",
+    "split": "test",
+    "group": "image",
+    "question": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), tổng xuất khẩu (Exports) là bao nhiêu quadrillion Btu?",
+    "expected_answer": "10.36 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 23,
+        "visual": "Figure 1.0: nhãn Exports 10.36"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t09",
+    "split": "test",
+    "group": "image",
+    "question": "Trong sơ đồ Production Flow 2011 (Figure 6.2), lượng Repressuring là bao nhiêu trillion cubic feet?",
+    "expected_answer": "3.4 trillion cubic feet",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 200,
+        "visual": "Figure 6.2 Production Flow: nhãn Repressuring 3.4"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t10",
+    "split": "test",
+    "group": "image",
+    "question": "Bản đồ Onshore Wind Resources (Figure 4.13) đo tốc độ gió trung bình ở độ cao bao nhiêu mét?",
+    "expected_answer": "80 mét",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 130,
+        "evidence": "Data are annual average wind speed at 80 meters."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t11",
+    "split": "test",
+    "group": "image",
+    "question": "Bản đồ Concentrating Solar Resources (Figure 4.11) đo tài nguyên bằng đơn vị nào?",
+    "expected_answer": "kWh/m²/ngày (kilowatt-giờ trên mét vuông mỗi ngày)",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 128,
+        "evidence": "kWh/m2/Day ="
+      },
+      {
+        "page": 128,
+        "evidence": "kilowatthours per square meter per day"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t12",
+    "split": "test",
+    "group": "chart",
+    "question": "Trong biểu đồ Crude Oil Imports for SPR (Figure 5.17), năm nào có lượng nhập cao nhất và giá trị là bao nhiêu triệu thùng?",
+    "expected_answer": "Năm 1981, 93 triệu thùng",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 178,
+        "visual": "Figure 5.17 Crude Oil Imports for SPR: cột cao nhất nhãn 93 ở năm 1981"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t13",
+    "split": "test",
+    "group": "chart",
+    "question": "Trong biểu đồ SPR Stocks as Days of Petroleum Net Imports (Figure 5.17), giá trị cao nhất là bao nhiêu ngày và ở năm nào?",
+    "expected_answer": "115 ngày, năm 1985",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 178,
+        "visual": "Figure 5.17 SPR Stocks as Days: cột cao nhất nhãn 115 ở khoảng năm 1985"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t14",
+    "split": "test",
+    "group": "chart",
+    "question": "Trong biểu đồ Gross Withdrawals by Well Type, 2011 (Figure 6.2), giếng khí tự nhiên (Natural Gas Wells) có giá trị bao nhiêu trillion cubic feet?",
+    "expected_answer": "22.4 trillion cubic feet",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 200,
+        "visual": "Figure 6.2 Gross Withdrawals by Well Type: cột Natural Gas Wells nhãn 22.4"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t15",
+    "split": "test",
+    "group": "chart",
+    "question": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), giá trị của Shipments là bao nhiêu quadrillion Btu và có dấu gì?",
+    "expected_answer": "-0.6 quadrillion Btu (âm)",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 66,
+        "visual": "Figure 2.2 By Energy Source: cột Shipments nhãn -0.6"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t16",
+    "split": "test",
+    "group": "chart",
+    "question": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), khí tự nhiên (Natural Gas) có giá trị bao nhiêu quadrillion Btu?",
+    "expected_answer": "5.9 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 66,
+        "visual": "Figure 2.2 By Energy Source: cột Natural Gas nhãn 5.9"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t17",
+    "split": "test",
+    "group": "multihop",
+    "question": "Năm 2000, sản lượng than (Bảng 1.2) lớn hơn tiêu thụ than (Bảng 1.3) bao nhiêu quadrillion Btu?",
+    "expected_answer": "0.155 quadrillion Btu (22.735 − 22.580)",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 27,
+        "evidence": "2000 | 22.735 | 19.662 | 12.358 | 2.611 | 57.366"
+      },
+      {
+        "page": 29,
+        "evidence": "2000 | 22.580 | .065 | 23.824 | 38.262 | 84.731"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t18",
+    "split": "test",
+    "group": "multihop",
+    "question": "Năm 2000, sản lượng nhiên liệu hóa thạch (Bảng 1.2) chiếm bao nhiêu phần trăm tổng tiêu thụ nhiên liệu hóa thạch (Bảng 1.3)? Làm tròn một chữ số thập phân.",
+    "expected_answer": "67.7% (57.366 / 84.731)",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 27,
+        "evidence": "2000 | 22.735 | 19.662 | 12.358 | 2.611 | 57.366"
+      },
+      {
+        "page": 29,
+        "evidence": "2000 | 22.580 | .065 | 23.824 | 38.262 | 84.731"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t19",
+    "split": "test",
+    "group": "multihop",
+    "question": "Sản lượng nhiên liệu hóa thạch năm 2011 trong Bảng 1.1 và trong Bảng 1.2 có khớp không? Ghi giá trị.",
+    "expected_answer": "Có, cùng 60.601 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 25,
+        "evidence": "2011P | 60.601 | 8.259 | 9.236 | 78.096"
+      },
+      {
+        "page": 27,
+        "evidence": "2011P | 22.181 | 23.506 | 11.986 | 2.928 | 60.601"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t20",
+    "split": "test",
+    "group": "multihop",
+    "question": "Sản lượng than năm 2011 trong Hình 1.0 (Energy Flow) có khớp với Bảng 1.2 không? Ghi giá trị ở cả hai nguồn.",
+    "expected_answer": "Có: Hình 1.0 ghi 22.18; Bảng 1.2 ghi 22.181",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 23,
+        "visual": "Figure 1.0: nhãn Coal 22.18 ở nhánh Coal"
+      },
+      {
+        "page": 27,
+        "evidence": "2011P | 22.181 | 23.506"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t21",
+    "split": "test",
+    "group": "text",
+    "question": "Theo chú thích của bảng dầu mỏ, \"Lease Condensate\" (ngưng tụ khí tại mỏ) là gì?",
+    "expected_answer": "Phần natural gas liquids được tách ra từ dòng khí tại đầu giếng ở trạm tách tại mỏ",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 111,
+        "evidence": "Lease condensate is the portion of natural gas liquids that is separated from the wellhead gas stream"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t22",
+    "split": "test",
+    "group": "text",
+    "question": "Theo chú thích của Bảng 5.16, \"SPR\" (Dự trữ dầu chiến lược) bắt đầu hoạt động từ năm nào?",
+    "expected_answer": "Năm 1977",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 177,
+        "evidence": "\"SPR\" is the Strategic Petroleum Reserve, which began in 1977"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t23",
+    "split": "test",
+    "group": "text",
+    "question": "Theo chú thích của Hình 1.0, \"Total energy consumption\" được định nghĩa là gì?",
+    "expected_answer": "Tổng của tiêu thụ năng lượng sơ cấp, bán điện lẻ và tổn thất hệ thống điện",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 23,
+        "evidence": "Total energy consumption, which is the sum of primary energy consumption, electricity retail"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t24",
+    "split": "test",
+    "group": "text",
+    "question": "Trong chú thích bảng về điện (trang 284), \"ERCOT\" là viết tắt của tổ chức nào?",
+    "expected_answer": "Electric Reliability Council of Texas",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 284,
+        "evidence": "Electric Reliability Council of Texas (ERCOT)"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "t25",
+    "split": "test",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu mức tiêu thụ năng lượng của Việt Nam năm 2011 không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Vietnam",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "t26",
+    "split": "test",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu điện năng tiêu thụ cho khai thác Bitcoin không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Bitcoin",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "t27",
+    "split": "test",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu doanh số xe điện (electric vehicle) của Hoa Kỳ năm 2011 không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "electric vehicle",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "t28",
+    "split": "test",
+    "group": "unanswerable",
+    "question": "Tài liệu có đánh giá tác động của COVID-19 đến tiêu thụ năng lượng không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "COVID",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "t29",
+    "split": "test",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu sản lượng của công ty Tesla không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Tesla",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "t30",
+    "split": "test",
+    "group": "unanswerable",
+    "question": "Tài liệu có số liệu về năng lượng tiêu thụ tại Nam Cực (Antarctic) không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Antarctic",
+    "note": "Không xuất hiện trong corpus"
+  }
+]

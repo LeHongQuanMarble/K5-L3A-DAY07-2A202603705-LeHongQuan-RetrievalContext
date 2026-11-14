@@ -101,7 +101,16 @@ Bảng từng câu test (cấu hình khóa, dense B 1200 prompt v1):
 
 ## Thử thách nâng cao (nếu thực hiện)
 
-Không thực hiện.
+Đã thực hiện nhưng **chưa đạt** ngưỡng 90% (bonus = 0).
+
+- Tài liệu: *Annual Energy Review 2011* (EIA, 390 trang, tài liệu của chính phủ Hoa Kỳ thuộc phạm vi công cộng). File `starter/data/advanced/source/aer_2011.pdf`, sha256 `b00fda98…dda15` (xem `starter/data/advanced/index/manifest.json`). 264 trang có bảng, 138 trang có hình/biểu đồ.
+- Index: text theo trang (pdftotext -layout), chunk theo hàng bảng kèm tiêu đề và tên cột, mô tả hình do Claude vision tạo (chưa kiểm chứng đầy đủ). Tổng 6.700 chunk, embedding MiniLM đa ngôn ngữ.
+- Benchmark: dev 18 câu (15 có đáp án, 3 thiếu bằng chứng) và test 30 câu (24 + 6), phân nhóm bảng, hình, biểu đồ, multi-hop, text. File `starter/advanced/benchmark/`.
+- Kết quả dev, chấm bằng tay: retrieval chunk + agent text (prompt v1–v3) gần như không trả lời đúng; chọn trang bằng `page_rrf` (dense + TF-IDF theo trang) và gửi 8 ảnh trang cho Claude cho 11/18 câu đạt.
+- Kết quả test, cấu hình đã khóa (page_rrf, 8 trang, vision), chạy một lần: **20/30 (66,7%)**. Theo nhóm: bảng 2/6, hình 5/5, biểu đồ 5/5, multi-hop 0/4, text 2/4, thiếu bằng chứng 6/6. Nhãn từng câu: `starter/advanced/results/test-vision-prrf8/reviews.json`.
+- Lỗi chính: 8 trang gửi model không chứa trang gold trong nhiều câu bảng và multi-hop. Multi-hop cần đủ hai trang cùng lúc, cơ chế chọn trang hiện tại không đảm bảo điều đó.
+- Lưu ý tính độc lập: test đã được xem trong quá trình phát triển, nên con số 20/30 chỉ là kết quả của cấu hình đã khóa, không phải điểm độc lập để tính bonus. Để đạt bonus cần bộ test mới và chấm lại.
+- Chi phí test: 30 lượt gọi model, khoảng 370k token đầu vào và 6k token đầu ra (Claude Haiku 5.5). Thời gian khoảng 150 giây cho 30 câu.
 
 ## Giới hạn và tái lập
 
