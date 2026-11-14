@@ -1,0 +1,8 @@
+[
+  {"id":"u01","split":"dev","question":"Elizabeth Bennet có biết chơi đàn violin không?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Từ violin/fiddle không xuất hiện trong corpus Pride and Prejudice (đã kiểm tra bằng tìm từ khóa)."},
+  {"id":"u02","split":"dev","question":"Bingley từng đến Ireland chưa?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Từ Ireland không xuất hiện trong corpus; từ Irish chỉ xuất hiện trong ngữ cảnh khác."},
+  {"id":"u03","split":"dev","question":"Mary Bennet có chơi guitar không?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Từ guitar không xuất hiện trong corpus."},
+  {"id":"u04","split":"test","question":"Wickham từng sống ở Tây Ban Nha không?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Từ Spain không xuất hiện trong corpus; Spanish chỉ xuất hiện một lần trong ngữ cảnh khác."},
+  {"id":"u05","split":"test","question":"Darcy có đồn điền ở Jamaica không?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Từ Jamaica không xuất hiện trong corpus."},
+  {"id":"u06","split":"test","question":"Ông bà Gardiner có đưa gia đình sang Mỹ không?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Từ America/American không xuất hiện trong corpus."}
+]
