@@ -1,0 +1,2008 @@
+[
+  {
+    "query_id": "w01",
+    "group": "table",
+    "status": "answered",
+    "answer": "6.551 degree-days (Bảng 1.9, dòng năm 2005, cột New England).",
+    "citations": [
+      "page:41"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.9, số ngày sưởi (heating degree-days) năm 2005 của khu vực New England là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 40
+          },
+          {
+            "id": null,
+            "page": 36
+          },
+          {
+            "id": null,
+            "page": 42
+          },
+          {
+            "id": null,
+            "page": 41
+          },
+          {
+            "id": null,
+            "page": 37
+          },
+          {
+            "id": null,
+            "page": 43
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          40,
+          36,
+          42,
+          41,
+          37,
+          43
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"6.551 degree-days (Bảng 1.9, dòng năm 2005, cột New England).\", \"pages\": [41]}"
+      }
+    ],
+    "elapsed_ms": 5376.537119000204
+  },
+  {
+    "query_id": "w02",
+    "group": "table",
+    "status": "answered",
+    "answer": "2.143 ngày làm mát (cooling degree-days) cho khu vực South Atlantic năm 1990.",
+    "citations": [
+      "page:43"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.10, số ngày làm mát (cooling degree-days) năm 1990 của khu vực South Atlantic là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 43
+          },
+          {
+            "id": null,
+            "page": 42
+          },
+          {
+            "id": null,
+            "page": 38
+          },
+          {
+            "id": null,
+            "page": 41
+          },
+          {
+            "id": null,
+            "page": 40
+          },
+          {
+            "id": null,
+            "page": 39
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          43,
+          42,
+          38,
+          41,
+          40,
+          39
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"2.143 ngày làm mát (cooling degree-days) cho khu vực South Atlantic năm 1990.\", \"pages\": [43]}"
+      }
+    ],
+    "elapsed_ms": 4337.773004001065
+  },
+  {
+    "query_id": "w03",
+    "group": "table",
+    "status": "answered",
+    "answer": "4.341 Bcf (4,341 Billion Cubic Feet) — theo Bảng 6.3, cột Imports by Country of Origin, Total, năm 2005.",
+    "citations": [
+      "page:203"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 6.3, tổng lượng nhập khẩu khí tự nhiên (Imports, Total) năm 2005 là bao nhiêu Bcf?",
+        "results": [
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 152
+          },
+          {
+            "id": null,
+            "page": 104
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 203
+          },
+          {
+            "id": null,
+            "page": 90
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          202,
+          152,
+          104,
+          199,
+          203,
+          90
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"4.341 Bcf (4,341 Billion Cubic Feet) — theo Bảng 6.3, cột Imports by Country of Origin, Total, năm 2005.\", \"pages\": [203]}"
+      }
+    ],
+    "elapsed_ms": 3712.017117000869
+  },
+  {
+    "query_id": "w04",
+    "group": "table",
+    "status": "answered",
+    "answer": "1.287 giàn khoan (1,287 rigs)",
+    "citations": [
+      "page:115"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 4.4, số giàn khoan quay trên bờ (Onshore) năm 2005 là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 114
+          },
+          {
+            "id": null,
+            "page": 115
+          },
+          {
+            "id": null,
+            "page": 312
+          },
+          {
+            "id": null,
+            "page": 143
+          },
+          {
+            "id": null,
+            "page": 130
+          },
+          {
+            "id": null,
+            "page": 146
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          114,
+          115,
+          312,
+          143,
+          130,
+          146
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"1.287 giàn khoan (1,287 rigs)\", \"pages\": [115]}"
+      }
+    ],
+    "elapsed_ms": 4207.778078998672
+  },
+  {
+    "query_id": "w05",
+    "group": "table",
+    "status": "answered",
+    "answer": "23.457 Bcf (23,457 tỷ feet khối). Đây là cột Total trong nhóm Natural Gas Gross Withdrawals From Crude Oil, Natural Gas, Coalbed, and Shale Gas Wells của Bảng 6.4, dòng năm 2005.",
+    "citations": [
+      "page:205"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 6.4, tổng sản lượng khí tự nhiên gross withdrawals năm 2005 là bao nhiêu Bcf?",
+        "results": [
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 205
+          },
+          {
+            "id": null,
+            "page": 201
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          204,
+          200,
+          197,
+          199,
+          205,
+          201
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"23.457 Bcf (23,457 tỷ feet khối). Đây là cột Total trong nhóm Natural Gas Gross Withdrawals From Crude Oil, Natural Gas, Coalbed, and Shale Gas Wells của Bảng 6.4, dòng năm 2005.\", \"pages\": [205]}"
+      }
+    ],
+    "elapsed_ms": 6180.2497879998555
+  },
+  {
+    "query_id": "w06",
+    "group": "table",
+    "status": "answered",
+    "answer": "857 nghìn thùng mỗi ngày (cột \"Total Petroleum\" của Bảng 5.5, năm 1990). Cột \"Total\" dưới nhóm Petroleum Products cho năm này là 748.",
+    "citations": [
+      "page:149"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 5.5, tổng xuất khẩu dầu mỏ (cột Total) năm 1990 là bao nhiêu nghìn thùng mỗi ngày?",
+        "results": [
+          {
+            "id": null,
+            "page": 144
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 342
+          },
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 149
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          144,
+          148,
+          165,
+          139,
+          138,
+          342
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 5.5 Petroleum Exports by Type 1949-2011 thousand barrels per day total 1990\", \"EIA Annual Energy Review 2011 Table 5.5 petroleum exports total crude oil products 1990\"]}",
+        "new_pages": [
+          160,
+          149
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          144,
+          148,
+          165,
+          139,
+          138,
+          342,
+          160,
+          149
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"857 nghìn thùng mỗi ngày (cột \\\"Total Petroleum\\\" của Bảng 5.5, năm 1990). Cột \\\"Total\\\" dưới nhóm Petroleum Products cho năm này là 748.\", \"pages\": [149]}"
+      }
+    ],
+    "elapsed_ms": 9442.198921000454
+  },
+  {
+    "query_id": "w07",
+    "group": "image",
+    "status": "answered",
+    "answer": "1.51 nghìn tỷ foot khối (trillion cubic feet)",
+    "citations": [
+      "page:197"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng xuất khẩu (Exports) là bao nhiêu nghìn tỷ foot khối (Trillion Cubic Feet)?",
+        "results": [
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 202
+          },
+          {
+            "id": null,
+            "page": 200
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          137,
+          197,
+          198,
+          206,
+          202,
+          200
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"1.51 nghìn tỷ foot khối (trillion cubic feet)\", \"pages\": [197]}"
+      }
+    ],
+    "elapsed_ms": 3960.030385000209
+  },
+  {
+    "query_id": "w08",
+    "group": "image",
+    "status": "answered",
+    "answer": "7,60 nghìn tỷ feet khối (Trillion Cubic Feet) trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0).",
+    "citations": [
+      "page:197"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng khí dùng cho Electric Power là bao nhiêu Tcf?",
+        "results": [
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 200
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          197,
+          23,
+          239,
+          206,
+          208,
+          200
+        ],
+        "raw": "```json\n{\"action\": \"answer\", \"answer\": \"7,60 nghìn tỷ feet khối (Trillion Cubic Feet) trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0).\", \"pages\": [197]}\n```"
+      }
+    ],
+    "elapsed_ms": 4161.836160999883
+  },
+  {
+    "query_id": "w09",
+    "group": "image",
+    "status": "answered",
+    "answer": "3,52 nghìn tỷ feet khối (Tcf), theo Figure 6.0 Natural Gas Flow, 2011.",
+    "citations": [
+      "page:197"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng Additions to Storage là bao nhiêu Tcf?",
+        "results": [
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 199
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 198
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          208,
+          197,
+          199,
+          137,
+          23,
+          198
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"3,52 nghìn tỷ feet khối (Tcf), theo Figure 6.0 Natural Gas Flow, 2011.\", \"pages\": [197]}"
+      }
+    ],
+    "elapsed_ms": 3129.3171430006623
+  },
+  {
+    "query_id": "w10",
+    "group": "image",
+    "status": "answered",
+    "answer": "24,37 nghìn tỷ feet khối (Tcf) (24.37 trillion cubic feet).",
+    "citations": [
+      "page:197"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), mức tiêu thụ (Consumption) là bao nhiêu Tcf?",
+        "results": [
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 239
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          197,
+          137,
+          208,
+          200,
+          206,
+          239
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"24,37 nghìn tỷ feet khối (Tcf) (24.37 trillion cubic feet).\", \"pages\": [197]}"
+      }
+    ],
+    "elapsed_ms": 3289.552856998853
+  },
+  {
+    "query_id": "w11",
+    "group": "image",
+    "status": "answered",
+    "answer": "22,38 nghìn tỷ feet khối (Tcf), tức 22.38 Tcf theo Figure 6.0 (ghi chú: bao gồm sản lượng gross withdrawals từ giếng khí tự nhiên, coalbed và shale gas wells).",
+    "citations": [
+      "page:197"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng khí từ giếng khí tự nhiên (From Natural Gas Wells) là bao nhiêu Tcf?",
+        "results": [
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 208
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 201
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          197,
+          195,
+          200,
+          208,
+          137,
+          201
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"22,38 nghìn tỷ feet khối (Tcf), tức 22.38 Tcf theo Figure 6.0 (ghi chú: bao gồm sản lượng gross withdrawals từ giếng khí tự nhiên, coalbed và shale gas wells).\", \"pages\": [197]}"
+      }
+    ],
+    "elapsed_ms": 3882.7947120007593
+  },
+  {
+    "query_id": "w12",
+    "group": "chart",
+    "status": "answered",
+    "answer": "1.846 giàn khoan (1,846 rigs)",
+    "citations": [
+      "page:114"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Site, 2011 (Figure 4.4), số giàn khoan trên bờ (Onshore) là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 114
+          },
+          {
+            "id": null,
+            "page": 130
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 226
+          },
+          {
+            "id": null,
+            "page": 115
+          },
+          {
+            "id": null,
+            "page": 204
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          114,
+          130,
+          224,
+          226,
+          115,
+          204
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"1.846 giàn khoan (1,846 rigs)\", \"pages\": [114]}"
+      }
+    ],
+    "elapsed_ms": 2920.755752000332
+  },
+  {
+    "query_id": "w13",
+    "group": "chart",
+    "status": "answered",
+    "answer": "32 giàn khoan (rotary rigs) ngoài khơi (Offshore) trong năm 2011, theo biểu đồ By Site, 2011 của Figure 4.4.",
+    "citations": [
+      "page:114"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Site, 2011 (Figure 4.4), số giàn khoan ngoài khơi (Offshore) là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 114
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 115
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 131
+          },
+          {
+            "id": null,
+            "page": 226
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          114,
+          224,
+          115,
+          137,
+          131,
+          226
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"32 giàn khoan (rotary rigs) ngoài khơi (Offshore) trong năm 2011, theo biểu đồ By Site, 2011 của Figure 4.4.\", \"pages\": [114]}"
+      }
+    ],
+    "elapsed_ms": 3726.384475001396
+  },
+  {
+    "query_id": "w14",
+    "group": "chart",
+    "status": "answered",
+    "answer": "984",
+    "citations": [
+      "page:114"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Type, 2011 (Figure 4.4), số giàn khoan dầu thô (Crude Oil) là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 160
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 11
+          },
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 115
+          },
+          {
+            "id": null,
+            "page": 114
+          },
+          {
+            "id": null,
+            "page": 117
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          160,
+          137,
+          148,
+          17,
+          11,
+          142
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Figure 4.4 Crude Oil and Natural Gas Rotary Rigs in Operation By Type 2011 oil rigs count\", \"Annual Energy Review 2011 Table 4.4 Crude Oil and Natural Gas Rotary Rigs in Operation Selected Years 1949-2011 oil rigs 2011\"]}",
+        "new_pages": [
+          115,
+          114,
+          117
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          160,
+          137,
+          148,
+          17,
+          11,
+          142,
+          115,
+          114,
+          117
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"984\", \"pages\": [114]}"
+      }
+    ],
+    "elapsed_ms": 8241.683631000342
+  },
+  {
+    "query_id": "w15",
+    "group": "chart",
+    "status": "answered",
+    "answer": "887 giàn khoan khí tự nhiên (Natural Gas) năm 2011, theo biểu đồ By Type, 2011 của Figure 4.4 và cột Natural Gas năm 2011 trong Table 4.4.",
+    "citations": [
+      "page:114",
+      "page:115"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Type, 2011 (Figure 4.4), số giàn khoan khí tự nhiên (Natural Gas) là bao nhiêu?",
+        "results": [
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 112
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 198
+          },
+          {
+            "id": null,
+            "page": 115
+          },
+          {
+            "id": null,
+            "page": 114
+          },
+          {
+            "id": null,
+            "page": 382
+          },
+          {
+            "id": null,
+            "page": 160
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          195,
+          206,
+          112,
+          197,
+          200,
+          198
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Figure 4.4 Crude Oil and Natural Gas Rotary Rigs in Operation By Type, 2011 natural gas rigs\", \"EIA Annual Energy Review 2011 Chapter 4 Petroleum Figure 4.4 rotary rigs by type 2011 natural gas count\"]}",
+        "new_pages": [
+          115,
+          114,
+          382,
+          160
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          195,
+          206,
+          112,
+          197,
+          200,
+          198,
+          115,
+          114,
+          382,
+          160
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"887 giàn khoan khí tự nhiên (Natural Gas) năm 2011, theo biểu đồ By Type, 2011 của Figure 4.4 và cột Natural Gas năm 2011 trong Table 4.4.\", \"pages\": [114, 115]}"
+      }
+    ],
+    "elapsed_ms": 7355.196170999989
+  },
+  {
+    "query_id": "w16",
+    "group": "chart",
+    "status": "answered",
+    "answer": "Khoảng 25 quadrillion Btu. Biểu đồ By Major Source, 2011 trong Figure 1.3 ghi nhãn 25 cho Natural Gas, làm tròn số nguyên.",
+    "citations": [
+      "page:28"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Major Source, 2011 (Figure 1.3), tiêu thụ khí tự nhiên (Natural Gas) năm 2011 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 239
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          23,
+          206,
+          28,
+          252,
+          197,
+          239
+        ],
+        "raw": "```json\n{\"action\": \"answer\", \"answer\": \"Khoảng 25 quadrillion Btu. Biểu đồ By Major Source, 2011 trong Figure 1.3 ghi nhãn 25 cho Natural Gas, làm tròn số nguyên.\", \"pages\": [28]}\n```"
+      }
+    ],
+    "elapsed_ms": 4072.6522189997922
+  },
+  {
+    "query_id": "w17",
+    "group": "multihop",
+    "status": "answered",
+    "answer": "Có, khớp. Tổng số ngày sưởi (heating degree-days) của Hoa Kỳ năm 2005 là 4.315 ở cả Bảng 1.9 (cột United States) và Bảng 1.7 (cột Total).",
+    "citations": [
+      "page:37",
+      "page:41"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tổng số ngày sưởi năm 2005 trong Bảng 1.9 (United States) và trong Bảng 1.7 có khớp không? Ghi giá trị.",
+        "results": [
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 41
+          },
+          {
+            "id": null,
+            "page": 43
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 152
+          },
+          {
+            "id": null,
+            "page": 146
+          },
+          {
+            "id": null,
+            "page": 40
+          },
+          {
+            "id": null,
+            "page": 36
+          },
+          {
+            "id": null,
+            "page": 37
+          },
+          {
+            "id": null,
+            "page": 42
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          46,
+          41,
+          43,
+          71,
+          152,
+          146
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.7 heating degree-days United States 2005\", \"Annual Energy Review 2011 Table 1.7 Energy Consumption Degree-Days 1949-2011 2005 United States heating degree days\"]}",
+        "new_pages": [
+          40,
+          36,
+          37,
+          42
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          46,
+          41,
+          43,
+          71,
+          152,
+          146,
+          40,
+          36,
+          37,
+          42
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Có, khớp. Tổng số ngày sưởi (heating degree-days) của Hoa Kỳ năm 2005 là 4.315 ở cả Bảng 1.9 (cột United States) và Bảng 1.7 (cột Total).\", \"pages\": [37, 41]}"
+      }
+    ],
+    "elapsed_ms": 11704.060396999921
+  },
+  {
+    "query_id": "w18",
+    "group": "multihop",
+    "status": "answered",
+    "answer": "Có khớp. Năm 1990, tổng số ngày làm mát (cooling degree-days) của Hoa Kỳ trong Bảng 1.10 là 1.260, và tổng cả năm trong Bảng 1.8 cũng là 1.260.",
+    "citations": [
+      "page:43",
+      "page:39"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tổng số ngày làm mát năm 1990 trong Bảng 1.10 (United States) và trong Bảng 1.8 có khớp không? Ghi giá trị.",
+        "results": [
+          {
+            "id": null,
+            "page": 43
+          },
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 41
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 278
+          },
+          {
+            "id": null,
+            "page": 42
+          },
+          {
+            "id": null,
+            "page": 38
+          },
+          {
+            "id": null,
+            "page": 39
+          },
+          {
+            "id": null,
+            "page": 40
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          43,
+          46,
+          71,
+          41,
+          281,
+          278
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.8 degree-days 1990 United States cooling\", \"Table 1.8 Degree-Days by Census Division Selected Years 1949-2011 Annual Energy Review 2011 Trang 40\"]}",
+        "new_pages": [
+          42,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          43,
+          46,
+          71,
+          41,
+          281,
+          278,
+          42,
+          38,
+          39,
+          40
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Có khớp. Năm 1990, tổng số ngày làm mát (cooling degree-days) của Hoa Kỳ trong Bảng 1.10 là 1.260, và tổng cả năm trong Bảng 1.8 cũng là 1.260.\", \"pages\": [43, 39]}"
+      }
+    ],
+    "elapsed_ms": 10686.739303999275
+  },
+  {
+    "query_id": "w19",
+    "group": "multihop",
+    "status": "answered",
+    "answer": "Có khớp. Tổng số ngày sưởi (heating degree-days) năm 1990 là 4.016 ở cả hai bảng. Bảng 1.9 ghi 4.016 ở cột United States, và Bảng 1.7 ghi 4.016 ở cột Total.",
+    "citations": [
+      "page:41",
+      "page:37"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tổng số ngày sưởi năm 1990 trong Bảng 1.9 (United States) và trong Bảng 1.7 có khớp không? Ghi giá trị.",
+        "results": [
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 43
+          },
+          {
+            "id": null,
+            "page": 71
+          },
+          {
+            "id": null,
+            "page": 41
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 359
+          },
+          {
+            "id": null,
+            "page": 36
+          },
+          {
+            "id": null,
+            "page": 40
+          },
+          {
+            "id": null,
+            "page": 37
+          },
+          {
+            "id": null,
+            "page": 42
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          46,
+          43,
+          71,
+          41,
+          45,
+          359
+        ],
+        "raw": "```json\n{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.7 Heating Degree-Days 1949-2011 United States 1990\", \"Annual Energy Review 2011 Table 1.7 Heating and Cooling Degree-Days Selected Years 1990 total United States\"]}\n```",
+        "new_pages": [
+          36,
+          40,
+          37,
+          42
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          46,
+          43,
+          71,
+          41,
+          45,
+          359,
+          36,
+          40,
+          37,
+          42
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Có khớp. Tổng số ngày sưởi (heating degree-days) năm 1990 là 4.016 ở cả hai bảng. Bảng 1.9 ghi 4.016 ở cột United States, và Bảng 1.7 ghi 4.016 ở cột Total.\", \"pages\": [41, 37]}"
+      }
+    ],
+    "elapsed_ms": 11345.179038000424
+  },
+  {
+    "query_id": "w20",
+    "group": "multihop",
+    "status": "answered",
+    "answer": "Có, khớp. Tổng năng lượng liên bang tiêu thụ năm 1990 là 1.438,0 nghìn tỷ Btu (trillion Btu) trong cả Bảng 1.11 và Bảng 1.12.",
+    "citations": [
+      "page:45",
+      "page:47"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tổng năng lượng liên bang Hoa Kỳ tiêu thụ năm 1990 trong Bảng 1.11 và Bảng 1.12 có khớp không? Ghi giá trị.",
+        "results": [
+          {
+            "id": null,
+            "page": 46
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 329
+          },
+          {
+            "id": null,
+            "page": 59
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 71
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          46,
+          45,
+          329,
+          59,
+          47,
+          71
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Có, khớp. Tổng năng lượng liên bang tiêu thụ năm 1990 là 1.438,0 nghìn tỷ Btu (trillion Btu) trong cả Bảng 1.11 và Bảng 1.12.\", \"pages\": [45, 47]}"
+      }
+    ],
+    "elapsed_ms": 5481.3278670008
+  },
+  {
+    "query_id": "w21",
+    "group": "text",
+    "status": "answered",
+    "answer": "Dữ liệu được ghi nhận vào cuối năm (\"Data are at end of year\"), tức là số liệu trữ lượng uranium năm 2008 được tính tại thời điểm cuối năm.",
+    "citations": [
+      "page:126"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng về uranium (trang 126), dữ liệu được ghi nhận vào thời điểm nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 294
+          },
+          {
+            "id": null,
+            "page": 389
+          },
+          {
+            "id": null,
+            "page": 127
+          },
+          {
+            "id": null,
+            "page": 126
+          },
+          {
+            "id": null,
+            "page": 359
+          },
+          {
+            "id": null,
+            "page": 124
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          294,
+          389,
+          127,
+          126,
+          359,
+          124
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Dữ liệu được ghi nhận vào cuối năm (\\\"Data are at end of year\\\"), tức là số liệu trữ lượng uranium năm 2008 được tính tại thời điểm cuối năm.\", \"pages\": [126]}"
+      }
+    ],
+    "elapsed_ms": 3537.5665440005832
+  },
+  {
+    "query_id": "w22",
+    "group": "text",
+    "status": "answered",
+    "answer": "Dữ liệu là sơ bộ (preliminary). Chú thích của Figure 5.23 (giá bán các sản phẩm dầu mỏ, 2010) ghi \"Note: Data are preliminary.\"",
+    "citations": [
+      "page:190"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng trang 190 (xăng động cơ), tình trạng dữ liệu thế nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 284
+          },
+          {
+            "id": null,
+            "page": 270
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 222
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 262
+          },
+          {
+            "id": null,
+            "page": 194
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 190
+          },
+          {
+            "id": null,
+            "page": 192
+          },
+          {
+            "id": null,
+            "page": 243
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          284,
+          270,
+          47,
+          222,
+          7,
+          262
+        ],
+        "raw": "```json\n{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 table motor gasoline consumption notes R=Revised P=Preliminary page 190\", \"Annual Energy Review 2011 Table 5.x motor gasoline supply and disposition notes and sources\"]}\n```",
+        "new_pages": [
+          194,
+          20,
+          190,
+          192,
+          243
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          284,
+          270,
+          47,
+          222,
+          7,
+          262,
+          194,
+          20,
+          190,
+          192,
+          243
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Dữ liệu là sơ bộ (preliminary). Chú thích của Figure 5.23 (giá bán các sản phẩm dầu mỏ, 2010) ghi \\\"Note: Data are preliminary.\\\"\", \"pages\": [190]}"
+      }
+    ],
+    "elapsed_ms": 9264.649245000328
+  },
+  {
+    "query_id": "w23",
+    "group": "text",
+    "status": "answered",
+    "answer": "Chú thích của Figure 4.10 (trang 126) ghi \"See 'Uranium Oxide' in Glossary\", tức là thuật ngữ này được giải thích trong phần Glossary (Thuật ngữ). Trong Glossary, \"Uranium Oxide\" được định nghĩa là uranium concentrate hoặc yellowcake, viết tắt là U3O8.",
+    "citations": [
+      "page:126",
+      "page:389"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng uranium (trang 126), thuật ngữ \"Uranium Oxide\" được giải thích ở đâu?",
+        "results": [
+          {
+            "id": null,
+            "page": 294
+          },
+          {
+            "id": null,
+            "page": 389
+          },
+          {
+            "id": null,
+            "page": 126
+          },
+          {
+            "id": null,
+            "page": 377
+          },
+          {
+            "id": null,
+            "page": 124
+          },
+          {
+            "id": null,
+            "page": 127
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          294,
+          389,
+          126,
+          377,
+          124,
+          127
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Chú thích của Figure 4.10 (trang 126) ghi \\\"See 'Uranium Oxide' in Glossary\\\", tức là thuật ngữ này được giải thích trong phần Glossary (Thuật ngữ). Trong Glossary, \\\"Uranium Oxide\\\" được định nghĩa là uranium concentrate hoặc yellowcake, viết tắt là U3O8.\", \"pages\": [126, 389]}"
+      }
+    ],
+    "elapsed_ms": 6119.784696000352
+  },
+  {
+    "query_id": "w24",
+    "group": "text",
+    "status": "answered",
+    "answer": "Theo chú thích 4 của Hình 6.0, \"Transportation\" bao gồm khí tự nhiên được tiêu thụ trong vận hành đường ống (chủ yếu ở các máy nén), và làm nhiên liệu trong quá trình phân phối khí tự nhiên đến người tiêu dùng; cộng thêm một lượng nhỏ dùng làm nhiên liệu cho phương tiện giao thông.",
+    "citations": [
+      "page:197"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích 4 của Hình 6.0 (Natural Gas Flow), \"Transportation\" bao gồm loại khí tiêu thụ nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 195
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 200
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          195,
+          197,
+          137,
+          23,
+          239,
+          200
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Theo chú thích 4 của Hình 6.0, \\\"Transportation\\\" bao gồm khí tự nhiên được tiêu thụ trong vận hành đường ống (chủ yếu ở các máy nén), và làm nhiên liệu trong quá trình phân phối khí tự nhiên đến người tiêu dùng; cộng thêm một lượng nhỏ dùng làm nhiên liệu cho phương tiện giao thông.\", \"pages\": [197]}"
+      }
+    ],
+    "elapsed_ms": 4116.485056998499
+  },
+  {
+    "query_id": "w25",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu doanh số điện thoại của Samsung không?",
+        "results": [
+          {
+            "id": null,
+            "page": 5
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 2
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 84
+          },
+          {
+            "id": null,
+            "page": 81
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          5,
+          7,
+          2,
+          62,
+          84,
+          81
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}"
+      }
+    ],
+    "elapsed_ms": 5801.531023998905
+  },
+  {
+    "query_id": "w26",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có số liệu về công ty Nokia không?",
+        "results": [
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 5
+          },
+          {
+            "id": null,
+            "page": 2
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 24
+          },
+          {
+            "id": null,
+            "page": 62
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          7,
+          5,
+          2,
+          17,
+          24,
+          62
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}"
+      }
+    ],
+    "elapsed_ms": 4153.256882998903
+  },
+  {
+    "query_id": "w27",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có số liệu tiêu thụ năng lượng của Ethiopia không?",
+        "results": [
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 3
+          },
+          {
+            "id": null,
+            "page": 60
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          7,
+          28,
+          20,
+          34,
+          3,
+          60
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}"
+      }
+    ],
+    "elapsed_ms": 5705.132426999626
+  },
+  {
+    "query_id": "w28",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 3,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu sản lượng than của Mongolia không?",
+        "results": [
+          {
+            "id": null,
+            "page": 222
+          },
+          {
+            "id": null,
+            "page": 123
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 389
+          },
+          {
+            "id": null,
+            "page": 362
+          },
+          {
+            "id": null,
+            "page": 209
+          },
+          {
+            "id": null,
+            "page": 220
+          },
+          {
+            "id": null,
+            "page": 224
+          },
+          {
+            "id": null,
+            "page": 215
+          },
+          {
+            "id": null,
+            "page": 351
+          },
+          {
+            "id": null,
+            "page": 219
+          },
+          {
+            "id": null,
+            "page": 12
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          222,
+          123,
+          52,
+          389,
+          362,
+          209
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 world coal production by country Mongolia million short tons\", \"Annual Energy Review 2011 table international coal production Asia and Oceania Mongolia\"]}",
+        "new_pages": [
+          220,
+          224,
+          215,
+          351,
+          219
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          222,
+          123,
+          52,
+          389,
+          362,
+          209,
+          220,
+          224,
+          215,
+          351,
+          219
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 world coal production by country Mongolia million short tons\", \"Annual Energy Review 2011 international coal production table Mongolia 2011\"]}",
+        "new_pages": [
+          12
+        ]
+      },
+      {
+        "event": "round",
+        "round": 3,
+        "pages_shown": [
+          222,
+          123,
+          52,
+          389,
+          362,
+          209,
+          220,
+          224,
+          215,
+          351,
+          219,
+          12
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Mongolia coal production\", \"Annual Energy Review 2011 world coal production by country table\"]}"
+      }
+    ],
+    "elapsed_ms": 18555.626211000344
+  },
+  {
+    "query_id": "w29",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có số liệu về Thế vận hội Olympics không?",
+        "results": [
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 2
+          },
+          {
+            "id": null,
+            "page": 3
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 39
+          },
+          {
+            "id": null,
+            "page": 42
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          7,
+          2,
+          3,
+          17,
+          39,
+          42
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}"
+      }
+    ],
+    "elapsed_ms": 4139.150205000988
+  },
+  {
+    "query_id": "w30",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu doanh thu của Toyota không?",
+        "results": [
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 78
+          },
+          {
+            "id": null,
+            "page": 62
+          },
+          {
+            "id": null,
+            "page": 47
+          },
+          {
+            "id": null,
+            "page": 2
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          17,
+          7,
+          78,
+          62,
+          47,
+          2
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}"
+      }
+    ],
+    "elapsed_ms": 5504.527282999334
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "id": "w01",
+    "split": "test3",
+    "group": "table",
+    "question": "Theo Bảng 1.9, số ngày sưởi (heating degree-days) năm 2005 của khu vực New England là bao nhiêu?",
+    "expected_answer": "6,551",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 41,
+        "evidence": "2005 | 6,551 | 5,804 | 6,241 | 6,202 | 2,844 | 3,402 | 2,051 | 4,759 | 2,959 | 4,315"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w02",
+    "split": "test3",
+    "group": "table",
+    "question": "Theo Bảng 1.10, số ngày làm mát (cooling degree-days) năm 1990 của khu vực South Atlantic là bao nhiêu?",
+    "expected_answer": "2,143",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 43,
+        "evidence": "1990 | 477 | 656 | 647 | 983 | 2,143 | 1,622 | 2,579 | 1,294 | 827 | 1,260"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w03",
+    "split": "test3",
+    "group": "table",
+    "question": "Theo Bảng 6.3, tổng lượng nhập khẩu khí tự nhiên (Imports, Total) năm 2005 là bao nhiêu Bcf?",
+    "expected_answer": "4,341 Bcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 203,
+        "evidence": "2005 | 97 | 3,700 | 73 | 9 | 8 | 3 | 439 | 11 | 4,341"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w04",
+    "split": "test3",
+    "group": "table",
+    "question": "Theo Bảng 4.4, số giàn khoan quay trên bờ (Onshore) năm 2005 là bao nhiêu?",
+    "expected_answer": "1,287 giàn",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 115,
+        "evidence": "2005 | 1,287 | 94 | 194 | 1,184 | 1,381"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w05",
+    "split": "test3",
+    "group": "table",
+    "question": "Theo Bảng 6.4, tổng sản lượng khí tự nhiên gross withdrawals năm 2005 là bao nhiêu Bcf?",
+    "expected_answer": "23,457 Bcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 205,
+        "evidence": "2005 | 6,007 | 1,310 | 1,639 | 11,350 | 3,151 | 23,457"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w06",
+    "split": "test3",
+    "group": "table",
+    "question": "Theo Bảng 5.5, tổng xuất khẩu dầu mỏ (cột Total) năm 1990 là bao nhiêu nghìn thùng mỗi ngày?",
+    "expected_answer": "857 nghìn thùng mỗi ngày",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 149,
+        "evidence": "1990 | 109 | 109 | 43 | 28 | 40 | 20 | 55 | 220 | 26 | 211 | 11 | 13 | 748 | 857"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w07",
+    "split": "test3",
+    "group": "image",
+    "question": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng xuất khẩu (Exports) là bao nhiêu nghìn tỷ foot khối (Trillion Cubic Feet)?",
+    "expected_answer": "1.51 Tcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 197,
+        "visual": "Figure 6.0: nhãn Exports 1.51"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w08",
+    "split": "test3",
+    "group": "image",
+    "question": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng khí dùng cho Electric Power là bao nhiêu Tcf?",
+    "expected_answer": "7.60 Tcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 197,
+        "visual": "Figure 6.0: nhãn Electric Power 7.60"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w09",
+    "split": "test3",
+    "group": "image",
+    "question": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng Additions to Storage là bao nhiêu Tcf?",
+    "expected_answer": "3.52 Tcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 197,
+        "visual": "Figure 6.0: nhãn Additions to Storage 3.52"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w10",
+    "split": "test3",
+    "group": "image",
+    "question": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), mức tiêu thụ (Consumption) là bao nhiêu Tcf?",
+    "expected_answer": "24.37 Tcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 197,
+        "visual": "Figure 6.0: nhãn Consumption 24.37"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w11",
+    "split": "test3",
+    "group": "image",
+    "question": "Trong sơ đồ Natural Gas Flow, 2011 (Figure 6.0), lượng khí từ giếng khí tự nhiên (From Natural Gas Wells) là bao nhiêu Tcf?",
+    "expected_answer": "22.38 Tcf",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 197,
+        "visual": "Figure 6.0: nhãn From Natural Gas Wells 22.38"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w12",
+    "split": "test3",
+    "group": "chart",
+    "question": "Trong biểu đồ By Site, 2011 (Figure 4.4), số giàn khoan trên bờ (Onshore) là bao nhiêu?",
+    "expected_answer": "1,846 giàn",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 114,
+        "visual": "Figure 4.4 By Site, 2011: cột Onshore nhãn 1,846"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w13",
+    "split": "test3",
+    "group": "chart",
+    "question": "Trong biểu đồ By Site, 2011 (Figure 4.4), số giàn khoan ngoài khơi (Offshore) là bao nhiêu?",
+    "expected_answer": "32 giàn",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 114,
+        "visual": "Figure 4.4 By Site, 2011: cột Offshore nhãn 32"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w14",
+    "split": "test3",
+    "group": "chart",
+    "question": "Trong biểu đồ By Type, 2011 (Figure 4.4), số giàn khoan dầu thô (Crude Oil) là bao nhiêu?",
+    "expected_answer": "984 giàn",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 114,
+        "visual": "Figure 4.4 By Type, 2011: cột Crude Oil nhãn 984"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w15",
+    "split": "test3",
+    "group": "chart",
+    "question": "Trong biểu đồ By Type, 2011 (Figure 4.4), số giàn khoan khí tự nhiên (Natural Gas) là bao nhiêu?",
+    "expected_answer": "887 giàn",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 114,
+        "visual": "Figure 4.4 By Type, 2011: cột Natural Gas nhãn 887"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w16",
+    "split": "test3",
+    "group": "chart",
+    "question": "Trong biểu đồ By Major Source, 2011 (Figure 1.3), tiêu thụ khí tự nhiên (Natural Gas) năm 2011 là bao nhiêu quadrillion Btu?",
+    "expected_answer": "25 quadrillion Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 28,
+        "visual": "Figure 1.3 By Major Source, 2011: cột Natural Gas nhãn 25"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w17",
+    "split": "test3",
+    "group": "multihop",
+    "question": "Tổng số ngày sưởi năm 2005 trong Bảng 1.9 (United States) và trong Bảng 1.7 có khớp không? Ghi giá trị.",
+    "expected_answer": "Có, cùng 4,315",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 41,
+        "evidence": "2005 | 6,551 | 5,804 | 6,241 | 6,202 | 2,844 | 3,402 | 2,051 | 4,759 | 2,959 | 4,315"
+      },
+      {
+        "page": 37,
+        "evidence": "2005 | 859 | 676 | 648 | 305 | 186 | 25 | 3 | 6 | 39 | 236 | 466 | 866 | 4,315"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w18",
+    "split": "test3",
+    "group": "multihop",
+    "question": "Tổng số ngày làm mát năm 1990 trong Bảng 1.10 (United States) và trong Bảng 1.8 có khớp không? Ghi giá trị.",
+    "expected_answer": "Có, cùng 1,260",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 43,
+        "evidence": "1990 | 477 | 656 | 647 | 983 | 2,143 | 1,622 | 2,579 | 1,294 | 827 | 1,260"
+      },
+      {
+        "page": 39,
+        "evidence": "1990 | 15 | 14 | 21 | 29 | 86 | 234 | 316 | 291 | 172 | 57 | 16 | 9 | 1,260"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w19",
+    "split": "test3",
+    "group": "multihop",
+    "question": "Tổng số ngày sưởi năm 1990 trong Bảng 1.9 (United States) và trong Bảng 1.7 có khớp không? Ghi giá trị.",
+    "expected_answer": "Có, cùng 4,016",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 41,
+        "evidence": "1990 | 5,848 | 4,998 | 5,681 | 6,011 | 2,230 | 2,929 | 1,944 | 5,146 | 3,148 | 4,016"
+      },
+      {
+        "page": 37,
+        "evidence": "1990 | 728 | 655 | 535 | 321 | 184 | 29 | 6 | 10 | 56 | 246 | 457 | 789 | 4,016"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w20",
+    "split": "test3",
+    "group": "multihop",
+    "question": "Tổng năng lượng liên bang Hoa Kỳ tiêu thụ năm 1990 trong Bảng 1.11 và Bảng 1.12 có khớp không? Ghi giá trị.",
+    "expected_answer": "Có, cùng 1,438.0 nghìn tỷ Btu",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 45,
+        "evidence": "1990 | 9.6 | 1,241.7 | 43.5 | 17.5 | 7.1 | 7.4 | 7.0 | 12.4 | 30.6 | 19.0 | 24.9 | 17.5 | 1,438.0"
+      },
+      {
+        "page": 47,
+        "evidence": "1990 | 44.3 | 159.4 | .5 | 245.2 | 732.4 | 6.4 | 37.2 | 1,021.7 | 193.6 | 19.1 | 1,438.0"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w21",
+    "split": "test3",
+    "group": "text",
+    "question": "Theo chú thích của bảng về uranium (trang 126), dữ liệu được ghi nhận vào thời điểm nào?",
+    "expected_answer": "Cuối năm",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 126,
+        "evidence": "Data are at end of year."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w22",
+    "split": "test3",
+    "group": "text",
+    "question": "Theo chú thích của bảng trang 190 (xăng động cơ), tình trạng dữ liệu thế nào?",
+    "expected_answer": "Dữ liệu là sơ bộ",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 190,
+        "evidence": "Data are preliminary."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w23",
+    "split": "test3",
+    "group": "text",
+    "question": "Theo chú thích của bảng uranium (trang 126), thuật ngữ \"Uranium Oxide\" được giải thích ở đâu?",
+    "expected_answer": "Trong phần Glossary (bảng chú giải thuật ngữ)",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 126,
+        "evidence": "See “Uranium Oxide” in Glossary."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w24",
+    "split": "test3",
+    "group": "text",
+    "question": "Theo chú thích 4 của Hình 6.0 (Natural Gas Flow), \"Transportation\" bao gồm loại khí tiêu thụ nào?",
+    "expected_answer": "Khí tự nhiên dùng để vận hành đường ống dẫn khí (chủ yếu trong máy nén) và làm nhiên liệu trong vận chuyển khí, cộng một lượng nhỏ làm nhiên liệu xe",
+    "expected_behavior": "answer",
+    "gold": [
+      {
+        "page": 197,
+        "evidence": "Natural gas consumed in the operation of pipelines (primarily in compressors)"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "w25",
+    "split": "test3",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu doanh số điện thoại của Samsung không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Samsung",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "w26",
+    "split": "test3",
+    "group": "unanswerable",
+    "question": "Tài liệu có số liệu về công ty Nokia không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Nokia",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "w27",
+    "split": "test3",
+    "group": "unanswerable",
+    "question": "Tài liệu có số liệu tiêu thụ năng lượng của Ethiopia không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Ethiopia",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "w28",
+    "split": "test3",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu sản lượng than của Mongolia không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Mongolia",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "w29",
+    "split": "test3",
+    "group": "unanswerable",
+    "question": "Tài liệu có số liệu về Thế vận hội Olympics không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Olympics",
+    "note": "Không xuất hiện trong corpus"
+  },
+  {
+    "id": "w30",
+    "split": "test3",
+    "group": "unanswerable",
+    "question": "Tài liệu có nêu doanh thu của Toyota không?",
+    "expected_answer": null,
+    "expected_behavior": "abstain",
+    "gold": [],
+    "absence_check": "Toyota",
+    "note": "Không xuất hiện trong corpus"
+  }
+]

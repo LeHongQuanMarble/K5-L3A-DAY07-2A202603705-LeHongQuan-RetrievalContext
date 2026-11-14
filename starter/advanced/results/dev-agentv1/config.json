@@ -1,0 +1,15 @@
+{
+  "split": "dev",
+  "mode": "agent_vision_multiround",
+  "max_rounds": 3,
+  "max_pages": 12,
+  "per_query": 3,
+  "model": "claude-haiku-5-5",
+  "n": 18,
+  "wall_seconds": 156.0,
+  "usage": {
+    "calls": 29,
+    "input_tokens": 341358,
+    "output_tokens": 10667
+  }
+}

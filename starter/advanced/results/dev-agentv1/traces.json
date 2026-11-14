@@ -1,0 +1,1371 @@
+[
+  {
+    "query_id": "d01",
+    "group": "table",
+    "status": "answered",
+    "answer": "Theo Bảng 1.2 (Table 1.2, Primary Energy Production by Source), sản lượng dầu thô (Crude Oil, bao gồm lease condensate) năm 2000 là 12.358 quadrillion Btu.",
+    "citations": [
+      "page:27"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.2, sản lượng dầu thô (Crude Oil) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 88
+          },
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 162
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 27
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          170,
+          88,
+          142,
+          162,
+          139,
+          165
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.2 Primary Energy Production by Source 1949-2011 crude oil quadrillion Btu 2000\", \"EIA Annual Energy Review 2011 Table 1.2 Primary Energy Production crude oil 2000 quadrillion Btu\"]}",
+        "new_pages": [
+          26,
+          23,
+          28,
+          27
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          170,
+          88,
+          142,
+          162,
+          139,
+          165,
+          26,
+          23,
+          28,
+          27
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Theo Bảng 1.2 (Table 1.2, Primary Energy Production by Source), sản lượng dầu thô (Crude Oil, bao gồm lease condensate) năm 2000 là 12.358 quadrillion Btu.\", \"pages\": [27]}"
+      }
+    ],
+    "elapsed_ms": 9794.230927000172
+  },
+  {
+    "query_id": "d02",
+    "group": "table",
+    "status": "answered",
+    "answer": "0,80 dollar mỗi triệu Btu (Bảng 3.1, cột Coal Nominal, năm 2000).",
+    "citations": [
+      "page:89"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 3.1, giá than (Coal) danh nghĩa năm 2000 là bao nhiêu dollar mỗi triệu Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 270
+          },
+          {
+            "id": null,
+            "page": 219
+          },
+          {
+            "id": null,
+            "page": 220
+          },
+          {
+            "id": null,
+            "page": 89
+          },
+          {
+            "id": null,
+            "page": 224
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          92,
+          270,
+          219,
+          220,
+          89,
+          224
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"0,80 dollar mỗi triệu Btu (Bảng 3.1, cột Coal Nominal, năm 2000).\", \"pages\": [89]}"
+      }
+    ],
+    "elapsed_ms": 4159.544602000096
+  },
+  {
+    "query_id": "d03",
+    "group": "table",
+    "status": "answered",
+    "answer": "Theo Bảng 1.3, lượng tiêu thụ dầu mỏ (Petroleum) năm 2000 là 38.262 quadrillion Btu.",
+    "citations": [
+      "page:29"
+    ],
+    "rounds": 3,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Bảng 1.3, lượng tiêu thụ dầu mỏ (Petroleum) năm 2000 là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 52
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 252
+          },
+          {
+            "id": null,
+            "page": 162
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 57
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 17
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          170,
+          165,
+          52,
+          139,
+          252,
+          162
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.3 Primary Energy Consumption by Source 1949-2011 petroleum quadrillion Btu 2000\", \"Table 1.3 Energy Consumption by Source petroleum 2000 quadrillion Btu Annual Energy Review 2011\"]}",
+        "new_pages": [
+          26,
+          28,
+          57,
+          66
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          170,
+          165,
+          52,
+          139,
+          252,
+          162,
+          26,
+          28,
+          57,
+          66
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.3 Primary Energy Consumption Estimates by Source 1949-2011 petroleum quadrillion Btu 2000\", \"EIA Annual Energy Review 2011 Table 1.3 Energy Consumption Estimates by Source, Selected Years 1949-2011 petroleum consumption\"]}",
+        "new_pages": [
+          29,
+          17,
+          320
+        ]
+      },
+      {
+        "event": "round",
+        "round": 3,
+        "pages_shown": [
+          170,
+          165,
+          52,
+          139,
+          252,
+          162,
+          26,
+          28,
+          57,
+          66,
+          29,
+          17
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Theo Bảng 1.3, lượng tiêu thụ dầu mỏ (Petroleum) năm 2000 là 38.262 quadrillion Btu.\", \"pages\": [29]}"
+      }
+    ],
+    "elapsed_ms": 13995.576942999833
+  },
+  {
+    "query_id": "d04",
+    "group": "image",
+    "status": "answered",
+    "answer": "21.62 quadrillion Btu",
+    "citations": [
+      "page:23"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), khu vực Residential tiêu thụ bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 70
+          },
+          {
+            "id": null,
+            "page": 34
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          23,
+          239,
+          80,
+          49,
+          70,
+          34
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"21.62 quadrillion Btu\", \"pages\": [23]}"
+      }
+    ],
+    "elapsed_ms": 3667.379164000522
+  },
+  {
+    "query_id": "d05",
+    "group": "image",
+    "status": "answered",
+    "answer": "24,49 quadrillion Btu (theo Hình 1.0, nhánh Petroleum trong mục Imports; tổng nhập khẩu là 28,59 quadrillion Btu, trong đó Other imports là 4,10).",
+    "citations": [
+      "page:23"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Energy Flow 2011 (Hình 1.0), nhập khẩu dầu mỏ (Petroleum) là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 30
+          },
+          {
+            "id": null,
+            "page": 17
+          },
+          {
+            "id": null,
+            "page": 47
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          23,
+          137,
+          239,
+          30,
+          17,
+          47
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"24,49 quadrillion Btu (theo Hình 1.0, nhánh Petroleum trong mục Imports; tổng nhập khẩu là 28,59 quadrillion Btu, trong đó Other imports là 4,10).\", \"pages\": [23]}"
+      }
+    ],
+    "elapsed_ms": 3678.06083799951
+  },
+  {
+    "query_id": "d06",
+    "group": "image",
+    "status": "answered",
+    "answer": "0,2 nghìn tỷ foot khối (Trillion Cubic Feet), theo Figure 6.2 Production Flow, 2011",
+    "citations": [
+      "page:200"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong sơ đồ Figure 6.2 (Production Flow 2011), lượng Vented and Flared là bao nhiêu nghìn tỷ foot khối (Trillion Cubic Feet)?",
+        "results": [
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 206
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 198
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          137,
+          197,
+          206,
+          200,
+          239,
+          198
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"0,2 nghìn tỷ foot khối (Trillion Cubic Feet), theo Figure 6.2 Production Flow, 2011\", \"pages\": [200]}"
+      }
+    ],
+    "elapsed_ms": 3969.0196120009205
+  },
+  {
+    "query_id": "d07",
+    "group": "chart",
+    "status": "answered",
+    "answer": "6,2 trillion cubic feet (Crude Oil Wells trong biểu đồ Gross Withdrawals by Well Type, 2011).",
+    "citations": [
+      "page:200"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ Gross Withdrawals by Well Type, 2011 (Figure 6.2), giếng dầu thô (Crude Oil Wells) có giá trị bao nhiêu trillion cubic feet?",
+        "results": [
+          {
+            "id": null,
+            "page": 204
+          },
+          {
+            "id": null,
+            "page": 200
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 118
+          },
+          {
+            "id": null,
+            "page": 120
+          },
+          {
+            "id": null,
+            "page": 142
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          204,
+          200,
+          197,
+          118,
+          120,
+          142
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"6,2 trillion cubic feet (Crude Oil Wells trong biểu đồ Gross Withdrawals by Well Type, 2011).\", \"pages\": [200]}"
+      }
+    ],
+    "elapsed_ms": 4022.4053980000463
+  },
+  {
+    "query_id": "d08",
+    "group": "chart",
+    "status": "answered",
+    "answer": "2.4 quadrillion Btu",
+    "citations": [
+      "page:66"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), giá trị của LPG và NGL là bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 93
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 30
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          23,
+          92,
+          26,
+          93,
+          66,
+          30
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"2.4 quadrillion Btu\", \"pages\": [66]}"
+      }
+    ],
+    "elapsed_ms": 3712.361776000762
+  },
+  {
+    "query_id": "d09",
+    "group": "chart",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 3,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ By Energy Source (Figure 2.2, năm 2006), Net Electricity có giá trị bao nhiêu quadrillion Btu?",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 255
+          },
+          {
+            "id": null,
+            "page": 92
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 80
+          },
+          {
+            "id": null,
+            "page": 29
+          },
+          {
+            "id": null,
+            "page": 55
+          },
+          {
+            "id": null,
+            "page": 98
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 30
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          23,
+          255,
+          92,
+          239,
+          80,
+          29
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Figure 2.2 Commercial Sector Energy Consumption by Energy Source 2006 net electricity quadrillion Btu\", \"Annual Energy Review 2011 Table 2.1a Energy Consumption by Sector 2006 commercial sector electricity net consumption\"]}",
+        "new_pages": [
+          55,
+          98,
+          58
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          23,
+          255,
+          92,
+          239,
+          80,
+          29,
+          55,
+          98,
+          58
+        ],
+        "raw": "```json\n{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Figure 2.2 Energy Consumption by Sector and Source 2006 Net Electricity quadrillion Btu\", \"Annual Energy Review 2011 Figure 2.2 By Energy Source Net Electricity Imports 2006 residential commercial industrial transportation\"]}\n```",
+        "new_pages": [
+          34,
+          30
+        ]
+      },
+      {
+        "event": "round",
+        "round": 3,
+        "pages_shown": [
+          23,
+          255,
+          92,
+          239,
+          80,
+          29,
+          55,
+          98,
+          58,
+          34,
+          30
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Figure 2.2 Commercial Sector Energy Consumption by Energy Source 2006 net electricity\", \"Table 2.2 Commercial Sector Energy Consumption Estimates by Energy Source 1949-2011 net electricity 2006 quadrillion Btu\"]}"
+      }
+    ],
+    "elapsed_ms": 15841.106044001208
+  },
+  {
+    "query_id": "d10",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 3,
+    "events": [
+      {
+        "event": "search",
+        "query": "Dầu thô (Crude Oil) sản xuất năm 2000 trong Bảng 1.2 chiếm bao nhiêu phần trăm tổng tiêu thụ dầu mỏ (Petroleum) năm 2000 trong Bảng 1.3? Làm tròn một chữ số thập phân.",
+        "results": [
+          {
+            "id": null,
+            "page": 142
+          },
+          {
+            "id": null,
+            "page": 165
+          },
+          {
+            "id": null,
+            "page": 139
+          },
+          {
+            "id": null,
+            "page": 148
+          },
+          {
+            "id": null,
+            "page": 138
+          },
+          {
+            "id": null,
+            "page": 180
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 28
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 57
+          },
+          {
+            "id": null,
+            "page": 170
+          },
+          {
+            "id": null,
+            "page": 160
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          142,
+          165,
+          139,
+          148,
+          138,
+          180
+        ],
+        "raw": "```json\n{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.2 Primary Energy Production by Source 1949-2011 crude oil 2000 quadrillion Btu\", \"Annual Energy Review 2011 Table 1.3 Primary Energy Consumption by Source petroleum 2000 quadrillion Btu\"]}\n```",
+        "new_pages": [
+          26,
+          28,
+          27,
+          57
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          142,
+          165,
+          139,
+          148,
+          138,
+          180,
+          26,
+          28,
+          27,
+          57
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.3 Primary Energy Consumption by Source, Selected Years 1949-2011 petroleum 2000 quadrillion Btu\", \"EIA Annual Energy Review 2011 Table 1.3 petroleum consumption total 2000 product supplied quadrillion Btu\"]}",
+        "new_pages": [
+          170,
+          160
+        ]
+      },
+      {
+        "event": "round",
+        "round": 3,
+        "pages_shown": [
+          142,
+          165,
+          139,
+          148,
+          138,
+          180,
+          26,
+          28,
+          27,
+          57,
+          170,
+          160
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.3 Primary Energy Consumption by Source, Selected Years 1949-2011 petroleum 2000 quadrillion Btu\", \"Annual Energy Review 2011 Table 1.3 petroleum consumption 2000 total primary energy consumption by source\"]}"
+      }
+    ],
+    "elapsed_ms": 15519.99640699978
+  },
+  {
+    "query_id": "d11",
+    "group": "multihop",
+    "status": "answered",
+    "answer": "Hình 1.0 ghi Natural Gas năm 2011 là 23,51 quadrillion Btu. Bảng 1.2 (cột Natural Gas (Dry), năm 2011) ghi 23,506 quadrillion Btu, làm tròn là 23,51. Hai giá trị khớp nhau.",
+    "citations": [
+      "page:23",
+      "page:27"
+    ],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Khí tự nhiên (Natural Gas) năm 2011 trong Hình 1.0 (Energy Flow) là bao nhiêu quadrillion Btu, và có khớp với Bảng 1.2 không? Lấy giá trị từ Bảng 1.2 làm chuẩn.",
+        "results": [
+          {
+            "id": null,
+            "page": 23
+          },
+          {
+            "id": null,
+            "page": 197
+          },
+          {
+            "id": null,
+            "page": 9
+          },
+          {
+            "id": null,
+            "page": 239
+          },
+          {
+            "id": null,
+            "page": 137
+          },
+          {
+            "id": null,
+            "page": 66
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 194
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 54
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          23,
+          197,
+          9,
+          239,
+          137,
+          66
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.2 Primary Energy Production by Source 1949-2011 natural gas quadrillion Btu\", \"Annual Energy Review 2011 Table 1.2 Primary Energy Production natural gas 2011 value\"]}",
+        "new_pages": [
+          26,
+          27,
+          194,
+          20,
+          54
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          23,
+          197,
+          9,
+          239,
+          137,
+          66,
+          26,
+          27,
+          194,
+          20,
+          54
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Hình 1.0 ghi Natural Gas năm 2011 là 23,51 quadrillion Btu. Bảng 1.2 (cột Natural Gas (Dry), năm 2011) ghi 23,506 quadrillion Btu, làm tròn là 23,51. Hai giá trị khớp nhau.\", \"pages\": [23, 27]}"
+      }
+    ],
+    "elapsed_ms": 11056.796967999617
+  },
+  {
+    "query_id": "d12",
+    "group": "multihop",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 2,
+    "events": [
+      {
+        "event": "search",
+        "query": "Năng lượng tái tạo (Renewable Energy) năm 2011 trong Hình 1.0 là bao nhiêu, và Bảng 1.2 ghi bao nhiêu? Hai con số có khớp không?",
+        "results": [
+          {
+            "id": null,
+            "page": 298
+          },
+          {
+            "id": null,
+            "page": 305
+          },
+          {
+            "id": null,
+            "page": 299
+          },
+          {
+            "id": null,
+            "page": 297
+          },
+          {
+            "id": null,
+            "page": 49
+          },
+          {
+            "id": null,
+            "page": 303
+          },
+          {
+            "id": null,
+            "page": 26
+          },
+          {
+            "id": null,
+            "page": 27
+          },
+          {
+            "id": null,
+            "page": 15
+          },
+          {
+            "id": null,
+            "page": 20
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          298,
+          305,
+          299,
+          297,
+          49,
+          303
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 Table 1.2 Primary Energy Production by Source 1949-2011 renewable energy 2011 quadrillion Btu\", \"Annual Energy Review 2011 Table 1.2 Primary Energy Consumption by Source renewable energy 2011 trillion Btu\"]}",
+        "new_pages": [
+          26,
+          27,
+          15,
+          20
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          298,
+          305,
+          299,
+          297,
+          49,
+          303,
+          26,
+          27,
+          15,
+          20
+        ],
+        "raw": ""
+      }
+    ],
+    "elapsed_ms": 17028.46193699952
+  },
+  {
+    "query_id": "d13",
+    "group": "text",
+    "status": "answered",
+    "answer": "Theo chú thích 2 của Bảng 8.13, \"Energy Efficiency\" (hiệu quả năng lượng) là các chương trình nhằm giảm lượng điện năng mà các thiết bị và hệ thống sử dụng cuối cùng tiêu thụ, thường không làm ảnh hưởng đến dịch vụ được cung cấp. Các chương trình này làm giảm tổng mức tiêu thụ điện, thường không xét rõ đến thời điểm của tiết kiệm do chương trình gây ra. Tiết kiệm đạt được chủ yếu bằng cách thay thiết bị tiên tiến hơn để tạo ra cùng mức dịch vụ với ít điện hơn, ví dụ: thiết bị gia dụng hiệu suất cao, chiếu sáng hiệu quả, hệ thống sưởi/thông gió/điều hòa hiệu suất cao, cải tiến điều khiển, thiết kế tòa nhà hiệu quả, động cơ điện tiên tiến và thiết bị thu hồi nhiệt thải.",
+    "citations": [
+      "page:287"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo phần chú thích, \"Energy Efficiency\" là gì trong bảng về chương trình quản lý phụ tải?",
+        "results": [
+          {
+            "id": null,
+            "page": 287
+          },
+          {
+            "id": null,
+            "page": 21
+          },
+          {
+            "id": null,
+            "page": 286
+          },
+          {
+            "id": null,
+            "page": 55
+          },
+          {
+            "id": null,
+            "page": 364
+          },
+          {
+            "id": null,
+            "page": 365
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          287,
+          21,
+          286,
+          55,
+          364,
+          365
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Theo chú thích 2 của Bảng 8.13, \\\"Energy Efficiency\\\" (hiệu quả năng lượng) là các chương trình nhằm giảm lượng điện năng mà các thiết bị và hệ thống sử dụng cuối cùng tiêu thụ, thường không làm ảnh hưởng đến dịch vụ được cung cấp. Các chương trình này làm giảm tổng mức tiêu thụ điện, thường không xét rõ đến thời điểm của tiết kiệm do chương trình gây ra. Tiết kiệm "
+      }
+    ],
+    "elapsed_ms": 7042.569381999783
+  },
+  {
+    "query_id": "d14",
+    "group": "text",
+    "status": "answered",
+    "answer": "Theo chú thích 21 của Bảng 8.12a, \"capacity margin\" (biên dự phòng công suất) là lượng công suất sẵn có chưa sử dụng của một hệ thống điện tại thời điểm phụ tải đỉnh, tính theo tỷ lệ phần trăm so với nguồn công suất (capacity resources). Dữ liệu chỉ áp dụng cho Hoa Kỳ, không bao gồm Alaska và Hawaii.",
+    "citations": [
+      "page:284"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng về biên dự phòng điện (trang 284), \"capacity margin\" được định nghĩa thế nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 284
+          },
+          {
+            "id": null,
+            "page": 282
+          },
+          {
+            "id": null,
+            "page": 285
+          },
+          {
+            "id": null,
+            "page": 281
+          },
+          {
+            "id": null,
+            "page": 65
+          },
+          {
+            "id": null,
+            "page": 283
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          284,
+          282,
+          285,
+          281,
+          65,
+          283
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Theo chú thích 21 của Bảng 8.12a, \\\"capacity margin\\\" (biên dự phòng công suất) là lượng công suất sẵn có chưa sử dụng của một hệ thống điện tại thời điểm phụ tải đỉnh, tính theo tỷ lệ phần trăm so với nguồn công suất (capacity resources). Dữ liệu chỉ áp dụng cho Hoa Kỳ, không bao gồm Alaska và Hawaii.\", \"pages\": [284]}"
+      }
+    ],
+    "elapsed_ms": 4656.237916999089
+  },
+  {
+    "query_id": "d15",
+    "group": "text",
+    "status": "answered",
+    "answer": "\"48 States\" trong chú thích được hiểu là 48 tiểu bang tiếp giáp (contiguous States), tức lãnh thổ lục địa, không bao gồm Alaska và Hawaii. Trang 362 ghi rõ \"All 48 contiguous States\" và \"the 48 contiguous States, and the District of Columbia\", đồng thời tách riêng Alaska. Quận Columbia (District of Columbia) được tính riêng và không nằm trong 48 tiểu bang.",
+    "citations": [
+      "page:362"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo chú thích của bảng năng lượng, \"48 States\" được hiểu là phạm vi nào?",
+        "results": [
+          {
+            "id": null,
+            "page": 362
+          },
+          {
+            "id": null,
+            "page": 128
+          },
+          {
+            "id": null,
+            "page": 326
+          },
+          {
+            "id": null,
+            "page": 303
+          },
+          {
+            "id": null,
+            "page": 45
+          },
+          {
+            "id": null,
+            "page": 327
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          362,
+          128,
+          326,
+          303,
+          45,
+          327
+        ],
+        "raw": "```json\n{\"action\": \"answer\", \"answer\": \"\\\"48 States\\\" trong chú thích được hiểu là 48 tiểu bang tiếp giáp (contiguous States), tức lãnh thổ lục địa, không bao gồm Alaska và Hawaii. Trang 362 ghi rõ \\\"All 48 contiguous States\\\" và \\\"the 48 contiguous States, and the District of Columbia\\\", đồng thời tách riêng Alaska. Quận Columbia (District of Columbia) được tính riêng và không nằm trong 48 tiểu b"
+      }
+    ],
+    "elapsed_ms": 6181.798995999998
+  },
+  {
+    "query_id": "d16",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 3,
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Annual Energy Review 2011, có số liệu về mức tiêu thụ năng lượng của Thái Lan không?",
+        "results": [
+          {
+            "id": null,
+            "page": 7
+          },
+          {
+            "id": null,
+            "page": 98
+          },
+          {
+            "id": null,
+            "page": 364
+          },
+          {
+            "id": null,
+            "page": 20
+          },
+          {
+            "id": null,
+            "page": 288
+          },
+          {
+            "id": null,
+            "page": 34
+          },
+          {
+            "id": null,
+            "page": 55
+          },
+          {
+            "id": null,
+            "page": 298
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          7,
+          98,
+          364,
+          20,
+          288,
+          34
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 international energy consumption by country Thailand primary energy consumption table\", \"Annual Energy Review 2011 Table 11.3 World Primary Energy Consumption by Country Asia and Oceania Thailand\"]}",
+        "new_pages": [
+          55,
+          298
+        ]
+      },
+      {
+        "event": "round",
+        "round": 2,
+        "pages_shown": [
+          7,
+          98,
+          364,
+          20,
+          288,
+          34,
+          55,
+          298
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 international energy consumption by country Thailand\", \"Annual Energy Review 2011 world primary energy consumption by country table Asia Pacific Thailand\"]}",
+        "new_pages": []
+      },
+      {
+        "event": "round",
+        "round": 3,
+        "pages_shown": [
+          7,
+          98,
+          364,
+          20,
+          288,
+          34,
+          55,
+          298
+        ],
+        "raw": "{\"action\": \"search\", \"queries\": [\"Annual Energy Review 2011 world primary energy consumption by country Thailand table\", \"Annual Energy Review 2011 international statistics Thailand total primary energy consumption Btu per capita\"]}"
+      }
+    ],
+    "elapsed_ms": 20206.77949599849
+  },
+  {
+    "query_id": "d17",
+    "group": "unanswerable",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu giá bán lẻ của điện thoại thông minh (smartphone) năm 2011 không?",
+        "results": [
+          {
+            "id": null,
+            "page": 272
+          },
+          {
+            "id": null,
+            "page": 222
+          },
+          {
+            "id": null,
+            "page": 58
+          },
+          {
+            "id": null,
+            "page": 12
+          },
+          {
+            "id": null,
+            "page": 274
+          },
+          {
+            "id": null,
+            "page": 182
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          272,
+          222,
+          58,
+          12,
+          274,
+          182
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"KHONG_DU_BANG_CHUNG\", \"pages\": []}"
+      }
+    ],
+    "elapsed_ms": 5033.752572999219
+  },
+  {
+    "query_id": "d18",
+    "group": "unanswerable",
+    "status": "answered",
+    "answer": "Không hoàn toàn. Tài liệu không nêu giá uranium \"trên thị trường quốc tế\" hay giá spot năm 2011 một cách trực tiếp. Biểu đồ Average Prices, 1981-2011 (Figure 9.3) chỉ cho thấy giá trung bình của hàng nhập khẩu (Purchased Imports) và giá mua trong nước (Domestic Purchases). Năm 2011, cả hai đường đều ở khoảng 50-55 USD/lb uranium oxide (ước đọc từ biểu đồ, không có số liệu chính xác trong trang này). Giá nhập khẩu là đại lượng gần nhất với giá quốc tế, nhưng đây là giá trung bình nhập khẩu, không phải giá thị trường quốc tế được nêu rõ.",
+    "citations": [
+      "page:294"
+    ],
+    "rounds": 1,
+    "events": [
+      {
+        "event": "search",
+        "query": "Tài liệu có nêu giá uranium trên thị trường quốc tế năm 2011 không?",
+        "results": [
+          {
+            "id": null,
+            "page": 294
+          },
+          {
+            "id": null,
+            "page": 126
+          },
+          {
+            "id": null,
+            "page": 127
+          },
+          {
+            "id": null,
+            "page": 389
+          },
+          {
+            "id": null,
+            "page": 124
+          },
+          {
+            "id": null,
+            "page": 377
+          }
+        ]
+      },
+      {
+        "event": "round",
+        "round": 1,
+        "pages_shown": [
+          294,
+          126,
+          127,
+          389,
+          124,
+          377
+        ],
+        "raw": "{\"action\": \"answer\", \"answer\": \"Không hoàn toàn. Tài liệu không nêu giá uranium \\\"trên thị trường quốc tế\\\" hay giá spot năm 2011 một cách trực tiếp. Biểu đồ Average Prices, 1981-2011 (Figure 9.3) chỉ cho thấy giá trung bình của hàng nhập khẩu (Purchased Imports) và giá mua trong nước (Domestic Purchases). Năm 2011, cả hai đường đều ở khoảng 50-55 USD/lb uranium oxide (ước đọc từ biểu đồ, không có"
+      }
+    ],
+    "elapsed_ms": 6455.281732000003
+  }
+]

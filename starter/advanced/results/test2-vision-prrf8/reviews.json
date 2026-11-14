@@ -1,0 +1,152 @@
+[
+  {
+    "id": "s01",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s02",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s03",
+    "pass": false,
+    "note": "Từ chối; trang 145 không nằm trong 8 trang gửi model"
+  },
+  {
+    "id": "s04",
+    "pass": true,
+    "note": "Đúng: 18.051 (quy ước tiếng Việt) = 18,051 Bcf, trang 201"
+  },
+  {
+    "id": "s05",
+    "pass": false,
+    "note": "Từ chối dù trích trang 100 (gold 101); trang 101 không được chọn"
+  },
+  {
+    "id": "s06",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s07",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s08",
+    "pass": true,
+    "note": "Đúng: đơn vị km² có trong câu trả lời; kèm thêm tonnes/km²/năm từ chú thích hình"
+  },
+  {
+    "id": "s09",
+    "pass": false,
+    "note": "Thêm khẳng định không có căn cứ rõ trong bản đồ (nhiệt độ ≥ 90°C, vùng địa lý cụ thể)"
+  },
+  {
+    "id": "s10",
+    "pass": false,
+    "note": "Sai trang: trích trang 23 (Figure 1.0) và giá trị 0.97, gold là Figure 1.1 trang 24 giá trị 1"
+  },
+  {
+    "id": "s11",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s12",
+    "pass": false,
+    "note": "Từ chối; trang 24 có trong gold nhưng không được chọn vào 8 trang"
+  },
+  {
+    "id": "s13",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s14",
+    "pass": false,
+    "note": "Từ chối; trang 26 không nằm trong 8 trang gửi model"
+  },
+  {
+    "id": "s15",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s16",
+    "pass": false,
+    "note": "Multi-hop: không có đủ trang 37 và 39 trong 8 trang gửi model"
+  },
+  {
+    "id": "s17",
+    "pass": false,
+    "note": "Multi-hop: không có đủ trang 145 và 147 trong 8 trang gửi model"
+  },
+  {
+    "id": "s18",
+    "pass": false,
+    "note": "Multi-hop: không có đủ trang 145 và 147 trong 8 trang gửi model"
+  },
+  {
+    "id": "s19",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s20",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s21",
+    "pass": false,
+    "note": "Từ chối; trang 109 không nằm trong 8 trang gửi model"
+  },
+  {
+    "id": "s22",
+    "pass": true,
+    "note": "Đúng nội dung; nhãn \"Figure 7.0\" sai nhưng trang 217 đúng"
+  },
+  {
+    "id": "s23",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s24",
+    "pass": false,
+    "note": "Từ chối; trang 69 không nằm trong 8 trang gửi model"
+  },
+  {
+    "id": "s25",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s26",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s27",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s28",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s29",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  },
+  {
+    "id": "s30",
+    "pass": true,
+    "note": "Đúng đáp án và trích đúng trang gold"
+  }
+]

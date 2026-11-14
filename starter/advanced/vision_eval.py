@@ -43,7 +43,7 @@ def parse(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--split', required=True, choices=('dev', 'test'))
+    ap.add_argument('--split', required=True, choices=('dev', 'test', 'test2'))
     ap.add_argument('--pages', type=int, default=3)
     ap.add_argument('--tag', required=True)
     ap.add_argument('--only', default='')
